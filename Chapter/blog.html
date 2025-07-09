@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OPTICA</title>
+    <meta name="author" content="David Grzyb">
+    <meta name="description" content="">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+
+
+
+
+
+    <!-- Tailwind -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
+        .nav-new{
+            background-color: #012a4a;
+        }
+        .font-family-karla {
+            font-family:'Merriweather',serif
+        }
+        .logo{
+            align-self: center;
+            width:25vw;
+        }
+        .custom{
+          background-color: #012a4a;
+
+        }
+        .main-container {
+            display: grid;
+            width: 100%;
+            padding-left: 1rem;
+            padding-right: 1rem;
+        }
+        .titulo{
+            font-variant: small-caps;
+        }
+
+        /* Small Screens (sm) */
+        @media (min-width: 640px) { 
+            .main-container {
+                width:25%;
+            }
+             
+           .slider2007{
+                width:inherit;
+                height: inherit;
+            }
+
+        }
+
+        /* Large Screens (lg) */
+        @media (min-width: 1024px) {
+            .main-container {
+                width: 60%;
+            }
+        }
+        .images{
+            width: 100%;
+            max-width: 1000px; 
+            height: auto; 
+            object-fit: cover; 
+            display: block;
+            margin: 0 auto;
+        }
+        .images2{
+            width: 100%;
+            max-width: 500px; 
+            height: auto; 
+            object-fit: cover; 
+            display: block;
+            margin: 0 auto;
+        }
+
+        @media (min-width: 768px) {
+            .images {
+                max-width: 600px;
+            }   
+            
+           .slider2007{
+                width:inherit;
+                height: inherit;
+            }
+        }   
+
+        @media (min-width: 1024px) {
+            
+            .slider2007{
+                width:30vw;
+                height: 40vh;
+            }
+            .slider{
+                height: 40rem;
+                width:50vw !important;
+            }
+            .slider2{
+                height: 30rem;
+                width:50vw !important;
+            }
+            
+            .slider2011{
+                height: 75vh;
+                width: 55vw;
+            }
+        }
+
+        @media (min-width: 1280px) {
+        
+            .slider2011{
+                height: 65vh;
+                width: 35vw;
+            }
+        .slider{
+            height: 50vh;
+                width:35vw  !important;
+            }
+            .slider2018{
+                width:30vw;
+            }
+        
+    }
+    </style>
+
+    <!-- AlpineJS -->
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
+    <!-- Font Awesome -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js" integrity="sha256-KzZiKy0DWYsnwMF+X1DvQngQ2/FxF7MF3Ff72XcpuPs=" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" 
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" 
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+<body class="bg-white font-family-karla">
+
+    <!-- Top Bar Nav -->
+    <nav class="w-full custom py-4  shadow">
+        
+        <div class="w-full container mx-auto flex flex-wrap items-center justify-between">
+
+           <!-- <nav>
+                <ul class="flex items-center justify-between font-bold text-sm text-white uppercase no-underline">
+                    <li><a class="hover:text-gray-200 hover:underline px-4" href="#">Shop</a></li>
+                    <li><a class="hover:text-gray-200 hover:underline px-4" href="#">About</a></li>
+                </ul>
+            </nav>
+            -->
+            <div>
+                <img src="./assets/UG.png" class="w-12" alt="">
+            </div>
+            <div class="flex items-center text-lg no-underline text-white pr-6">
+                <a class="" href="https://www.facebook.com/OpticaUG">
+                    <i class="fab fa-facebook"></i>
+                </a>
+                <a class="pl-6" href="https://www.instagram.com/opticaug/">
+                    <i class="fab fa-instagram"></i>
+                </a>
+                <a class="pl-6" href="https://x.com/OpticaUg">
+                    <i class="fa-brands fa-x-twitter"></i>
+                </a>
+         <!--       <a class="pl-6" href="#">
+                    <i class="fab fa-twitter"></i>
+                </a>
+                <a class="pl-6" href="#">
+                    <i class="fab fa-linkedin"></i>
+                </a>-->
+            </div>
+        </div>
+
+    </nav>
+
+    <!-- Text Header -->
+    <header class="w-full">
+        <div class="flex flex-col items-center w-full">
+            <a href="#" class="w-full self-center">
+                <img src="./assets/P-Optica-OSA1.png" class="justify-self-center w-1/3" alt="">
+            </a>
+        </div>
+    </header>
+    
+
+    <!-- Topic Nav -->
+    <nav class="w-full py-4 border-t border-b nav-new text-white" x-data="{ open: false }">
+        <div class="block sm:hidden">
+            <a
+                href="#"
+                class="block md:hidden text-base font-bold uppercase text-center flex justify-center items-center"
+                @click="open = !open"
+            >
+                Topics <i :class="open ? 'fa-chevron-down': 'fa-chevron-up'" class="fas ml-2"></i>
+            </a>
+        </div>
+        <div :class="open ? 'block': 'hidden'" class="w-full flex-grow sm:flex  sm:items-center sm:w-auto">
+            <div class="w-full container mx-auto flex flex-col sm:flex-row items-center justify-center text-sm font-bold uppercase mt-0 px-6 py-2">
+                <a href="#" class="hover:bg-gray-400 rounded py-2 px-4 mx-2">Actividad</a>
+                <a href="./routes/historia.html" class="hover:bg-gray-400 rounded py-2 px-4 mx-2">Historia</a>
+                <a href="#" class="hover:bg-gray-400 rounded py-2 px-4 mx-2">Miembros</a>
+                <a href="#" class="hover:bg-gray-400 rounded py-2 px-4 mx-2">Contacto</a>
+                <a href="https://photonics-mexico.com/" class="hover:bg-gray-400 rounded py-2 px-4 mx-2">Home</a>
+                <a href="https://photonics-mexico.com/FIOLab/" class="hover:bg-gray-400 rounded py-2 px-4 mx-2">FIOLab</a>
+                <a href="https://photonics-mexico.com/AppPhys/" class="hover:bg-gray-400 rounded py-2 px-4 mx-2">Applied Physics</a>
+                <a href="https://www.optica.org/" class="hover:bg-gray-400 rounded py-2 px-4 mx-2">Optica</a>
+               <!-- <a href="#" class="hover:bg-gray-400 rounded py-2 px-4 mx-2">Culture</a>
+                <a href="#" class="hover:bg-gray-400 rounded py-2 px-4 mx-2">Sports</a>-->
+            </div>
+        </div>
+    </nav>
+
+    <div class="py-2 mt-5 pl-8 titulo text-xl sm:text-lg lg:text-3xl font-semibold break-words">
+        Impulsamos la investigación en óptica y fotónica para cambiar el mundo.
+    </div>
+    
+    <div class="container mx-auto flex flex-wrap py-2">
+<!--					<embed src="files/Unirse_OPTICA.pdf" type="application/pdf" width="60%" height="500px" />
+-->
+        <!-- CARROUSEL -->
+        
+        <main class="main-container justify-center content-start">
+            <div x-data="imageSlider([
+            './assets/img/1.jpeg',
+            './assets/img/2.jpeg',
+            './assets/img/3.jpeg',
+            './assets/img/4.jpeg',
+            './assets/img/5.jpeg',
+            './assets/img/6.jpeg'
+        ])" class="relative max-w-l overflow-hidden rounded-md bg-gray-100  sm:p-4 slider mx-auto">
+                <div class="absolute right-5 top-5 z-10 rounded-full bg-gray-600 px-2 text-center text-sm text-white">
+                    <span x-text="currentIndex"></span>/<span x-text="images.length"></span>
+                </div>
+        
+                <button @click="previous()" class="absolute left-5 top-1/2 z-10 flex h-11 w-11 -translate-y-1/2 items-center justify-center rounded-full bg-gray-100 shadow-md">
+                    <i class="fas fa-chevron-left text-2xl font-bold text-gray-500"></i>
+                </button>
+        
+                <button @click="forward()" class="absolute right-5 top-1/2 z-10 flex h-11 w-11 -translate-y-1/2 items-center justify-center rounded-full bg-gray-100 shadow-md">
+                    <i class="fas fa-chevron-right text-2xl font-bold text-gray-500"></i>
+                </button>
+        
+                <div class="relative slider w-xs" style="width: 24rem">
+                    <template x-for="(image, index) in images">
+                        <div x-show="currentIndex == index + 1" x-transition:enter="transition transform duration-300" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave="transition transform duration-300" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0" class="absolute top-0">
+                            <img :src="image" alt="image"  class="images" />
+                        </div>
+                    </template>
+                </div>
+            </div>
+
+        </main>
+        
+            <!--
+            <article class="flex flex-col shadow my-4">-->
+                <!-- Article Image -->
+<!--
+                <a href="#" class="hover:opacity-75">
+                    <img src="https://source.unsplash.com/collection/1346951/1000x500?sig=1">
+                </a>
+                <div class="bg-white flex flex-col justify-start p-6">
+                    <a href="#" class="text-blue-700 text-sm font-bold uppercase pb-4">Technology</a>
+                    <a href="#" class="text-3xl font-bold hover:text-gray-700 pb-4">Lorem Ipsum Dolor Sit Amet Dolor Sit Amet</a>
+                    <p href="#" class="text-sm pb-3">
+                        By <a href="#" class="font-semibold hover:text-gray-800">David Grzyb</a>, Published on April 25th, 2020
+                    </p>
+                    <a href="#" class="pb-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis porta dui. Ut eu iaculis massa. Sed ornare ligula lacus, quis iaculis dui porta volutpat. In sit amet posuere magna..</a>
+                    <a href="#" class="uppercase text-gray-800 hover:text-black">Continue Reading <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </article>
+
+            <article class="flex flex-col shadow my-4">-->
+    
+                <!-- Article Image -->
+
+<!--                <a href="#" class="hover:opacity-75">
+                    <img src="https://source.unsplash.com/collection/1346951/1000x500?sig=2">
+                </a>
+                <div class="bg-white flex flex-col justify-start p-6">
+                    <a href="#" class="text-blue-700 text-sm font-bold uppercase pb-4">Automotive, Finance</a>
+                    <a href="#" class="text-3xl font-bold hover:text-gray-700 pb-4">Lorem Ipsum Dolor Sit Amet Dolor Sit Amet</a>
+                    <p href="#" class="text-sm pb-3">
+                        By <a href="#" class="font-semibold hover:text-gray-800">David Grzyb</a>, Published on January 12th, 2020
+                    </p>
+                    <a href="#" class="pb-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis porta dui. Ut eu iaculis massa. Sed ornare ligula lacus, quis iaculis dui porta volutpat. In sit amet posuere magna..</a>
+                    <a href="#" class="uppercase text-gray-800 hover:text-black">Continue Reading <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </article>
+
+            <article class="flex flex-col shadow my-4">-->
+                <!-- Article Image -->
+<!--                 
+                <a href="#" class="hover:opacity-75">
+                    <img src="https://source.unsplash.com/collection/1346951/1000x500?sig=3">
+                </a>
+                <div class="bg-white flex flex-col justify-start p-6">
+                    <a href="#" class="text-blue-700 text-sm font-bold uppercase pb-4">Sports</a>
+                    <a href="#" class="text-3xl font-bold hover:text-gray-700 pb-4">Lorem Ipsum Dolor Sit Amet Dolor Sit Amet</a>
+                    <p href="#" class="text-sm pb-3">
+                        By <a href="#" class="font-semibold hover:text-gray-800">David Grzyb</a>, Published on October 22nd, 2019
+                    </p>
+                    <a href="#" class="pb-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis porta dui. Ut eu iaculis massa. Sed ornare ligula lacus, quis iaculis dui porta volutpat. In sit amet posuere magna..</a>
+                    <a href="#" class="uppercase text-gray-800 hover:text-black">Continue Reading <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </article>
+-->
+            <!-- Pagination -->
+        <!---   
+            <div class="flex items-center py-8">
+                <a href="#" class="h-10 w-10 bg-blue-800 hover:bg-blue-600 font-semibold text-white text-sm flex items-center justify-center">1</a>
+                <a href="#" class="h-10 w-10 font-semibold text-gray-800 hover:bg-blue-600 hover:text-white text-sm flex items-center justify-center">2</a>
+                <a href="#" class="h-10 w-10 font-semibold text-gray-800 hover:text-gray-900 text-sm flex items-center justify-center ml-3">Next <i class="fas fa-arrow-right ml-2"></i></a>
+            </div>
+        -->
+        </section>
+
+        <!-- Sidebar Section -->
+        <aside class="w-full md:w-1/3 flex flex-col items-center px-3">
+
+            <div class="w-full bg-white shadow flex flex-col my-4 p-6">
+                
+                <div class="flex flex-wrap flex-col gap-2">
+                    <img src="./assets/8m.jpeg" alt="">
+                    <h2 class="font-bold text-lg">Mujeres exitosas</h2>
+                    <div class="border-2 border-gray-300 shadow-xl rounded-md hover:shadow-2xl hover:border-gray-500  transition duration-500" >
+                        <a href="https://www.facebook.com/share/v/1XcqzBi7vb/" class="flex flex-row flex-wrap ">
+                            <div class="w-1/4 rounded-full overflow-hidden p-4">
+                                <img src="./assets/entrevistas/karen.jfif" class="object-cover" alt="">
+                            </div>
+                            <span class="self-center w-3/4 sm:text-2xl lg:text-3xl  text-center">Ana Karen Reyes</span>
+                        </a>
+                    </div>
+                    <div class="border-2 border-gray-300 shadow-xl rounded-md hover:shadow-2xl transition duration-500 hover:border-gray-500 ">
+                        <a href="https://www.facebook.com/share/v/18V1h8ftzo/" class="flex flex-row flex-wrap" >
+                            <div class="w-1/4 rounded-full overflow-hidden p-4">
+                                <img src="./assets/entrevistas/alondrajfif" class="object-cover" alt="">
+                            </div>
+                            <span class="self-center w-3/4 text-center sm:text-2xl lg:text-3xl">Alondra Jazmín Fraustro Cardiel</span>  
+                        </a>
+                    </div>
+                    <div class="border-2 border-gray-300 shadow-xl rounded-md hover:shadow-2xl hover:border-gray-500  transition duration-500">
+                        <a href="https://www.facebook.com/share/v/1GqXcjJ56k/" class="flex flex-row flex-wrap">
+                            <div class="w-1/4 rounded-full overflow-hidden p-4">
+                                <img src="./assets/entrevistas/Meli.jpg" class="object-cover" alt="">
+                            </div>
+
+                            <span class="self-center w-3/4  text-center sm:text-2xl lg:text-3xl">Melissa Yaeth Paredes Cabrera</span>
+                        </a>
+
+                    </div>
+                    <div class="border-2 border-gray-300 shadow-xl rounded-md hover:shadow-2xl hover:border-gray-500  transition duration-500">
+                        <a href="https://www.facebook.com/share/r/1Vxt2BWQNQ/"class="flex flex-row flex-wrap" >
+                            <div class="w-1/4 rounded-full overflow-hidden p-4">
+                                <img src="./assets/entrevistas/amalia.jpg" class="object-cover" alt="">
+                            </div>
+                            <span class="self-center w-3/4  text-center sm:text-2xl lg:text-3xl">Amalia Martinez García</span>
+                        </a>
+                    </div>
+                    <div class="border-2 border-gray-300 shadow-xl rounded-md hover:shadow-2xl hover:border-gray-500 transition duration-500">
+                        <a href="https://www.facebook.com/share/v/1FHjqJz9VQ/" class="flex flex-row flex-wrap">
+                            <div class="w-1/4 rounded-full overflow-hidden p-4">
+                                <img src="./assets/entrevistas/dora.jpg" class="object-cover" alt="">
+                            </div>
+                            <span class="self-center w-3/4  text-center sm:text-2xl lg:text-3xl">Dora Luz Almanza Ojeda</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+<!--instagram-->
+<!--            <div class="w-full bg-white shadow flex flex-col my-4 p-6">
+                <p class="text-xl font-semibold pb-5">Instagram</p>
+                <div class="grid grid-cols-3 gap-3">
+                    <img class="hover:opacity-75" src="https://source.unsplash.com/collection/1346951/150x150?sig=1">
+                    <img class="hover:opacity-75" src="https://source.unsplash.com/collection/1346951/150x150?sig=2">
+                    <img class="hover:opacity-75" src="https://source.unsplash.com/collection/1346951/150x150?sig=3">
+                    <img class="hover:opacity-75" src="https://source.unsplash.com/collection/1346951/150x150?sig=4">
+                    <img class="hover:opacity-75" src="https://source.unsplash.com/collection/1346951/150x150?sig=5">
+                    <img class="hover:opacity-75" src="https://source.unsplash.com/collection/1346951/150x150?sig=6">
+                    <img class="hover:opacity-75" src="https://source.unsplash.com/collection/1346951/150x150?sig=7">
+                    <img class="hover:opacity-75" src="https://source.unsplash.com/collection/1346951/150x150?sig=8">
+                    <img class="hover:opacity-75" src="https://source.unsplash.com/collection/1346951/150x150?sig=9">
+                </div>
+                <a href="#" class="w-full bg-blue-800 text-white font-bold text-sm uppercase rounded hover:bg-blue-700 flex items-center justify-center px-2 py-3 mt-6">
+                    <i class="fab fa-instagram mr-2"></i> Follow @dgrzyb
+                </a>
+            </div>
+            -->
+        </aside>
+
+    </div>
+
+    <!--Footeer-->
+    <footer class="w-full border-t bg-white pb-12">
+           <!--Carrusel-->
+           <div class="w-full container mx-auto flex flex-col items-center">
+            <div class="flex flex-col md:flex-row text-center md:text-left md:justify-between py-6">
+                <a href="#" class="uppercase px-3">About Us</a>
+                <a href="#" class="uppercase px-3">Privacy Policy</a>
+                <a href="#" class="uppercase px-3">Terms & Conditions</a>
+                <a href="#" class="uppercase px-3">Contact Us</a>
+            </div>
+            <div class="uppercase pb-6">OPTICA UG</div>
+        </div>
+
+    </footer>
+
+    <script>
+        function getCarouselData() {
+            return {
+                currentIndex: 0,
+                increment() {
+                    this.currentIndex = this.currentIndex === this.images.length  ? 0 : this.currentIndex + 1;
+                },
+                decrement() {
+                    this.currentIndex = this.currentIndex === this.images.length ? 0 : this.currentIndex - 1;
+                },
+            }
+        }
+        //Neceistto hacer un componente con esto para evitar repptiendo esto    
+        
+    </script>
+        <script>
+            document.addEventListener("alpine:init", () => {
+              Alpine.data("imageSlider", (images) => ({
+                currentIndex: 1,
+                images:images ||[],
+                  init(){
+                    setInterval(()=>{
+                        this.forward();
+                    },3000);
+                  },
+                previous() {
+                  if (this.currentIndex > 1) {
+                    this.currentIndex = this.currentIndex - 1;
+                  }else{
+                    this.currentIndex=this.images.length;
+                  }
+                },
+                forward() {
+                  if (this.currentIndex < this.images.length) {
+                    this.currentIndex++;
+                    
+                  }else{
+                    this.currentIndex=1;
+                  }
+                },
+                //igual aqui
+            /*    previous1() {
+                  if (this.currentIndex > 1) {
+                    this.currentIndex = this.currentIndex - 1;
+                  }else{
+                    this.currentIndex=5;
+                  }
+                },
+                forward1() {
+                  if (this.currentIndex < this.images1.length) {
+                    this.currentIndex = this.currentIndex + 1;
+                    
+                  }else{
+                    this.currentIndex=1;
+                  }
+                },
+                previous2() {
+                  if (this.currentIndex > 1) {
+                    this.currentIndex = this.currentIndex - 1;
+                  }else{
+                    this.currentIndex=5;
+                  }
+                },
+                forward2() {
+                  if (this.currentIndex < this.images2.length) {
+                    this.currentIndex = this.currentIndex + 1;
+                    
+                  }else{
+                    this.currentIndex=1;
+                  }
+                },*/              
+              }));
+            });
+          </script>
+  
+</body>
+</html>
