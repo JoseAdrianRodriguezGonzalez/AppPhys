@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dr. Miguel Torres-Cisneros</title>
+  <style>
+    :root {
+      --accent: #3f51b5;
+      --bg: #f9fafc;
+      --text: #2e2e2e;
+      --soft: #e3eaf8;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Roboto, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      display: flex;
+      justify-content: center;
+      padding: 60px 20px;
+    }
+
+    .profile-card {
+      display: flex;
+      flex-direction: row;
+      max-width: 960px;
+      background-color: white;
+      border-radius: 16px;
+      box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08);
+      overflow: hidden;
+    }
+
+    .profile-photo {
+      flex: 1;
+      min-width: 280px;
+      background-color: var(--soft);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 30px;
+    }
+
+    .profile-photo img {
+      max-width: 100%;
+      border-radius: 12px;
+      object-fit: cover;
+    }
+
+    .profile-info {
+      flex: 2;
+      padding: 40px;
+    }
+
+    .profile-info h1 {
+      margin-top: 0;
+      font-size: 28px;
+      color: var(--accent);
+    }
+
+    .profile-info p, .profile-info li {
+      font-size: 16px;
+      line-height: 1.5;
+    }
+
+    .profile-info ul {
+      margin: 16px 0;
+      padding-left: 20px;
+    }
+
+    .profile-info a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .profile-info a:hover {
+      text-decoration: underline;
+    }
+
+    .contact-block {
+      margin-top: 20px;
+      font-size: 15px;
+      color: #444;
+    }
+
+    .footer {
+      text-align: center;
+      font-size: 14px;
+      color: #666;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <div class="profile-card">
+    <div class="profile-photo">
+      <img src="../img/MIGUEL.jpg" alt="Miguel Torres-Cisneros">
+    </div>
+    <div class="profile-info">
+      <h1>Dr. Miguel Torres-Cisneros</h1>
+      <p>
+        <strong>Departamento de Electrónica</strong><br>
+        <a href="http://www.dicis.ugto.mx/">Universidad de Guanajuato</a>
+      </p>
+
+      <div class="contact-block">
+        <p>
+          Carretera Salamanca-Valle Km. 3+2<br>
+          Comunidad de Palo Blanco, Salamanca, Gto. C.P. 36885<br>
+          Oficina 318 · Tel: +52 (464) 6479940 ext. 2462<br>
+          Email: <a href="mailto:torres.cisneros@ugto.mx">torres.cisneros@ugto.mx</a>
+        </p>
+      </div>
+
+      <ul>
+        <li>Ex-Presidente de la <a href="http://amo-ac.mx/sitio/">Academia Mexicana de Óptica</a></li>
+        <li>Miembro de la <a href="http://amc.edu.mx/amc/">Academia Mexicana de Ciencias</a></li>
+        <li>Investigador Nacional Nivel 2</li>
+      </ul>
+    </div>
+  </div>
+
+</body>
+</html>
