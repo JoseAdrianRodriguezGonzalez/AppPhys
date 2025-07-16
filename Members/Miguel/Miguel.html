@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+        theme: {
+            extend: {
+            colors: {
+                'miguel-white':'#fff',
+                'miguel-blue': '#004a88',
+                'miguel-gold': '#ffd700'
+            },
+            fontFamily: {
+                sans: ['Segoe UI', 'Roboto', 'sans-serif'],
+            }
+            }
+        }
+        }
+    </script>
+    <title>Miguel</title>
+</head>
+<body class="bg-miguel-white text-white font-sans">
+    <header class="bg-miguel-blue">
+
+        <div class="flex flex-row items-end  border-b-2 border-b-white/80"> <!--Top part-->
+            <div class="w-20 flex-1 pb-4 pl-2">
+                <span class="text-sm sm:text-base md:text-lg  lg:text-[2.3vw] font-bold">    
+                    Applied Physics and Advanced Technologies
+                </span>
+            </div>
+            <div class="flex w-32 flex-1 justify-end  pb-4 pt-2">
+                <img class="w-2/3" src="../../img/Escudoin.png" alt="">
+            </div>
+        </div>
+        <div class="p-3 text-sm sm:text-base md:text-lg lg:text-[1.vw]">
+            Miguel Torres-Cisneros
+        </div> <!--bottom part-->
+       
+        <nav class="bg-[#ABABAB] font-semibold relative z-10">
+            <div class="flex justify-between items-center p-4 md:hidden">
+                <span class="text-lg">Menú</span>
+                <button id="menu-toggle" class="text-xl focus:outline-none">
+                    ☰
+                </button>
+            </div>
+            <div id="menu" class="hidden flex-col md:flex md:flex-row">
+                <div class="flex-1 flex justify-center items-center hover:bg-gray-600 cursor-pointer">
+                    <span>Home</span>
+                </div>
+                <div class="group relative flex-1 flex justify-center items-center hover:bg-gray-600 cursor-pointer">
+                    <span class="py-2 px-4 toggle-submenu" data-target="submenu-members">Members ▼</span>
+                    <div  id="submenu-members" class="submenu absolute  top-full hidden md:group-hover:flex flex-col bg-gray-700 w-56  text-sm rounded shadow-lg z-10">
+                        <a href="../Maggie.html" class="px-4 py-2 hover:bg-gray-600">Cristina M. Gomez-Sarabia</a>
+                        <a href="#" class="px-4 py-2 hover:bg-gray-600">Iván Hernandez-Romano</a>
+                        <a href="../Natanael.html" class="px-4 py-2 hover:bg-gray-600">Natanael Cuando-Espitia</a>
+                        <a href="../Jorge.html" class="px-4 py-2 hover:bg-gray-600">Jorge Ojeda-Castañeda</a>
+                    </div>
+                </div>
+                <div class="group relative flex-1 flex justify-center items-center hover:bg-gray-600 cursor-pointer">
+                    <span class="py-2 px-4 toggle-submenu" data-target="submenu-products">Products ▼</span>
+                    <div id="submenu-products" class="submenu absolute  top-full hidden md:group-hover:flex flex-col bg-gray-700 md:w-56 w-[40vw] text-sm rounded shadow-lg z-10">
+                        <a href="PapersJCR.html" class="px-4 py-2 hover:bg-gray-600">JCR Paper</a>
+                        <a href="Patentes.html" class="px-4 py-2 hover:bg-gray-600">Patents</a>
+                        <a href="Capitulos.html" class="px-4 py-2 hover:bg-gray-600">Chapters in Book</a>
+                        <a href="Congresos.html" class="px-4 py-2 hover:bg-gray-600">Congress</a>
+                    </div>
+                </div>
+                <div class="flex-1 flex justify-center items-center hover:bg-gray-600 cursor-pointer">
+                    <span class="py-2 px-4">Personal</span>
+                </div>
+                <div class="flex-1 flex justify-center items-center hover:bg-gray-600 cursor-pointer">
+                    <span class="py-2 px-4">Research</span>
+                </div>
+                <div class="group relative flex-1 flex justify-center items-center hover:bg-gray-600 cursor-pointer">
+                    <span class="py-2 px-4 toggle-submenu" data-target="submenu-other">Others ▼</span>
+                    <div id="submenu-other" class="submenu absolute top-full hidden md:group-hover:flex flex-col bg-gray-700 md:w-56 w-[40vw] text-sm rounded shadow-lg z-10">
+                        <a href="ArticulosJCR.html" class="px-3 py-2 hover:bg-gray-600">Artículos No JCR</a>
+                        <a href="Docencia.html" class="px-3 py-2 hover:bg-gray-600">Courses</a>
+                        <a href="Doctorales.html" class="px-3 py-2 hover:bg-gray-600">Doctorales</a>
+                        <a href="Tesistas.html" class="px-3 py-2 hover:bg-gray-600">Tesistas</a>
+                        <a href="Proyectos.html" class="px-3 py-2 hover:bg-gray-600">Approved Projects</a>
+                        <a href="Eventos.html" class="px-3 py-2 hover:bg-gray-600">Events</a>
+                        <a href="Citas.html" class="px-3 py-2 hover:bg-gray-600">Cites</a>
+                        <a href="Evaluador.html" class="px-3 py-2 hover:bg-gray-600">Evaluator</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+
+    </header>
+    <main class="my-10">
+        <section class="grid grid-row-2 md:grid-cols-3  m-20 md:h-[50vh] shadow-xl shadow-grey-600 ">
+            <div class="bg-[#e3eaf8]  flex md:justify-center items-center">
+                <img class="md:w-3/4 md:h-1/2" src="../../img/MIGUEL.jpg" alt="">
+            </div>
+            <div class="md:col-span-2 text-black bg-[#f9fafc] p-5">
+                <h1 class="text-[#3f51b5] font-sans text-2xl  text-bold">Dr. Miguel Torres-Cisneros</h1>
+                <div class="flex flex-col my-2">
+                    <strong class="text-bold">Departamento de Electrónica</strong>
+                    <a class="text-[#3f51b5]" href="https://www.ugto.mx/directorio-universidad-guanajuato/campus-irapuato-salamanca/division-de-ingenierias">Universidad de Guanajuato</a>
+                </div>
+                <div class="flex flex-col my-2">
+                    <a class="" href="https://www.google.com.mx/maps/dir/Valle+de+Santiago,+GTO/Salamanca,+GTO/Universidad+de+Guanajuato+Campus+Irapuato-Salamanca,+Comunidad+de+Palo+Blanco,+Salamanca,+Gto.,+Guanajuato/@20.4837865,-101.385277,11.63z/data=!4m20!4m19!1m5!1m1!1s0x842c8d0935957e15:0x3a870577baeca000!2m2!1d-101.1900528!2d20.392169!1m5!1m1!1s0x842c85091a5c9245:0xe706e4729b35eac!2m2!1d-101.1957172!2d20.5739314!1m5!1m1!1s0x842c8fbb11194463:0xec7f5676b9dd5a9b!2m2!1d-101.1935481!2d20.5070939!3e0">
+                        <span>Carretera Salamanca-Valle Km. 3+2</span>
+                        <span>Comunidad de Palo Blanco, Salamanca, Gto. C.P. 36885</span>
+                    </a>
+                    <span>Oficina: 318  Tel: +52 (464) 6479940 ext. 2462</span>
+                    <span >Email: <a href="mailto:torres.cisneros@ugto.mx" class="text-[#3f51b5]">torres.cisneros en ugto.mx</a></span>
+                </div>
+                <ol class="list-disc mx-5">
+                    <li>Ex-Presidente de la <a href="http://amo-ac.mx/sitio/" class="text-[#3f51b5]"> Academia Mexicana de Óptica</a></li>
+                    <li>Miembro de la <a class="text-[#3f51b5]" href="http://amc.edu.mx/amc/"> Academia Mexicana de Ciencias</a></li>
+                    <li>Investigador Nacional Nivel 2</li>
+                </ol>
+            </div>
+        </section>
+    </main>
+    <footer class=" grid grid-row-2 justify-center items-center bg-gray-400">
+        <div class="flex flex-row p-5 gap-2">
+            <div class="border-r-2 border-r-gray-200 p-2">
+                <a href="http://www.ugto.mx">Universidad de Guanajuato</a>
+            </div>
+            <div class="border-r-2 border-r-gray-200 p-2">
+                <a href="http://www.ingenierias.ugto.mx/DI/estructura/">División de Ingenierías Campus Irapuato Salamanca</a>
+            </div>
+            <div class=" p-2">
+                <a href="http://photonics-mexico.com/">Photonics Mexico</a>
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <p class="text-center">
+                Km 3+2 Salamanca-Valle Road<br>
+                Salamanca,  Guanajuato C.P. 36000, Mexico.<br>
+                Tel: +(52) 464 647 99 40   , Ext. 2462 Email: torrescisneros@gmail.com
+            </p>
+        </div>
+    </footer>
+</body>
+<script>
+    const toggle = document.getElementById('menu-toggle');
+    const menu = document.getElementById('menu');
+    toggle.addEventListener('click', () => {
+        menu.classList.toggle('hidden');
+    });
+    document.addEventListener("DOMContentLoaded",()=>{
+        const toggles=document.querySelectorAll(".toggle-submenu");
+        toggles.forEach(toggle=>{
+            toggle.addEventListener("click",(e)=>{
+                console.log(toggle);
+                e.stopPropagation();
+                const targetId=toggle.getAttribute("data-target");
+                const submenu=document.getElementById(targetId);
+                document.querySelectorAll(".submenu").forEach(menu=>{
+                    if(menu !== submenu) {
+                        menu.classList.add("hidden");
+                    }
+                });
+                
+                // Alternar el submenú actual
+                submenu.classList.toggle("hidden");
+            });
+        });
+        document.addEventListener("click",()=>{
+            document.querySelectorAll(".submenu").forEach(menu=>{
+                menu.classList.add("hidden");
+            })
+        })
+    })
+</script>
+</html>

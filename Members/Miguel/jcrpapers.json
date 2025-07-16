@@ -1,0 +1,1534 @@
+[
+  {
+    "id": 1,
+    "title": "Limits to the adiabatical coherent amplification of solitons in active doped fibers",
+    "authors": [
+      "G.E. Torres-Cisneros",
+      "J.J. Sánchez-Mondragón",
+      "R.F. Navieb",
+      "R. Ramos-García",
+      "M. Torres-Cisneros"
+    ],
+    "journal": "Revista Mexicana de Física",
+    "volume": "38",
+    "issue": "5",
+    "pages": "691-700",
+    "year": 1992,
+    "issn_print": "0035-001X",
+    "issn_online": "",
+    "doi": ""
+  },
+  {
+    "id": 2,
+    "title": "Efecto de difusión en la propagación resonante de pulsos",
+    "authors": [
+      "R. Ramos-García",
+      "J.J. Sánchez-Mondragón",
+      "M. Torres-Cisneros",
+      "G.E. Torres-Cisneros"
+    ],
+    "journal": "Revista Mexicana de Física",
+    "volume": "39",
+    "issue": "4",
+    "pages": "569-580",
+    "year": 1993,
+    "issn_print": "0035-001X",
+    "issn_online": "",
+    "doi": ""
+  },
+  {
+    "id": 3,
+    "title": "Distortionless light-guided beams crossing",
+    "authors": [
+      "G.E. Torres-Cisneros",
+      "J.J. Sánchez-Mondragón",
+      "M. Torres-Cisneros",
+      "E. Alvarado-Méndez"
+    ],
+    "journal": "Revista Mexicana de Física",
+    "volume": "39",
+    "issue": "5",
+    "pages": "662-668",
+    "year": 1993,
+    "issn_print": "0035-001X",
+    "issn_online": "",
+    "doi": ""
+  },
+  {
+    "id": 4,
+    "title": "Solitons solutions in optical fiber devices possessing periodical high gain profiles",
+    "authors": [
+      "V.A. Vysloukh",
+      "M. Torres-Cisneros",
+      "J. Sánchez-Mondragón",
+      "E. Martí-Panameño",
+      "G.E. Torres-Cisneros"
+    ],
+    "journal": "Revista Mexicana de Física",
+    "volume": "41",
+    "issue": "1",
+    "pages": "72-84",
+    "year": 1995,
+    "issn_print": "0035-001X",
+    "issn_online": "",
+    "doi": ""
+  },
+  {
+    "id": 5,
+    "title": "Experimental evidence of modulation instability in a photorefractive BiTiO crystal",
+    "authors": [
+      "M.D. Iturbe-Castillo",
+      "M. Torres-Cisneros",
+      "J.J. Sánchez-Mondragón",
+      "S. Chavez-Cerda",
+      "S. I. Stepanov",
+      "V.A. Vysloukh",
+      "G.E. Torres-Cisneros"
+    ],
+    "journal": "Optics Letters",
+    "volume": "20",
+    "issue": "18",
+    "pages": "1853-1855",
+    "year": 1995,
+    "issn_print": "0146-9592",
+    "issn_online": "1539-4794",
+    "doi": "10.1364/OL.20.001853"
+  },
+  {
+    "id": 6,
+    "title": "Guías de onda generadas por solitones ópticos espaciales",
+    "authors": [
+      "G.E. Torres-Cisneros",
+      "J.J. Sánchez-Mondragón",
+      "M.D. Iturbe-Castillo",
+      "G.S. García-Quirino",
+      "M. Torres-Cisneros",
+      "C. Treviño-Palacios"
+    ],
+    "journal": "Revista Mexicana de Física",
+    "volume": "41",
+    "issue": "5",
+    "pages": "662-694",
+    "year": 1995,
+    "issn_print": "0035-001X",
+    "issn_online": "",
+    "doi": ""
+  },
+  {
+    "id": 7,
+    "title": "Femtosecond soliton amplification in an Er-doped fiber amplifier with inhomogenously broadened line",
+    "authors": [
+      "E. Martí-Panameño",
+      "V.A. Vysloukh",
+      "M. Torres-Cisneros",
+      "J.J. Sánchez-Mondragón",
+      "G.E. Torres-Cisneros"
+    ],
+    "journal": "Optical Fiber Technology",
+    "volume": "2",
+    "issue": "2",
+    "pages": "143-148",
+    "year": 1996,
+    "issn_print": "1068-5200",
+    "issn_online": "",
+    "doi": ""
+  },
+  {
+    "id": 8,
+    "title": "Internal reflection of one-dimensional bright spatial solitons",
+    "authors": [
+      "E. Alvarado-Méndez",
+      "G.E. Torres-Cisneros",
+      "M. Torres-Cisneros",
+      "J.J. Sánchez-Mondragón",
+      "V. Vysloukh"
+    ],
+    "journal": "Journal of Quantum Electron",
+    "volume": "30",
+    "issue": "7-10",
+    "pages": "687-696",
+    "year": 1998,
+    "issn_print": "0306-8919",
+    "issn_online": "1572-817X",
+    "doi": "10.1023/A:1006915616104"
+  },
+  {
+    "id": 9,
+    "title": "Stimulated Raman scattering in a fiber with bending loss",
+    "authors": [
+      "E. Kuzin",
+      "G. Beltran-Perez",
+      "M.A. Basurto-Pensado",
+      "R. Rojas-Laguna",
+      "J.A. Andrade-Lucio",
+      "E. Alvarado-Méndez",
+      "M. Torres-Cisneros"
+    ],
+    "journal": "Optics Communications",
+    "volume": "169",
+    "issue": "1-6",
+    "pages": "87-91",
+    "year": 1999,
+    "issn_print": "0030-4018",
+    "issn_online": "",
+    "doi": "10.1016/S0030-4018(99)00430-7"
+  },
+  {
+    "id": 10,
+    "title": "Optical switching by coherent collision of spatial solitons",
+    "authors": [
+      "J.A. Andrade-Lucio",
+      "E. Alvarado-Méndez",
+      "R. Rojas-Laguna",
+      "O.G. Ibarra-Manzano",
+      "M. Torres-Cisneros"
+    ],
+    "journal": "Electronics Letters",
+    "volume": "36",
+    "issue": "16",
+    "pages": "1403-1405",
+    "year": 2000,
+    "issn_print": "0013-5194",
+    "issn_online": "1350-911X",
+    "doi": "10.1049/el:20001018"
+  },
+  {
+    "id": 11,
+    "title": "Optical interruptors based on total internal reflection of spatial solitons in saturable nonlinear interfaces",
+    "authors": [
+      "E. Alvarado-Méndez",
+      "M. Torres-Cisneros",
+      "D. A. Gutierrez-Hernández",
+      "J.A. Andrade-Lucio",
+      "R. Rojas-Laguna",
+      "J. C. Pedraza-Ortega",
+      "G. E. Torres-Cisneros",
+      "J.J. Sánchez-Mondragón",
+      "G. Flores-Alvarado"
+    ],
+    "journal": "Revista Mexicana de Física",
+    "volume": "47",
+    "issue": "3",
+    "pages": "264-270",
+    "year": 2001,
+    "issn_print": "0035-001X",
+    "issn_online": "",
+    "doi": ""
+  },
+  {
+    "id": 12,
+    "title": "Total Internal reflection of spatial solitons in interface formed by nonlinear Saturable-Linear",
+    "authors": [
+      "E. Alvarado-Méndez",
+      "J.A. Andrade-Lucio",
+      "J.G. Aviña-Cervantes",
+      "M. Torres-Cisneros",
+      "R. Rojas-Laguna",
+      "J. C. Pedraza-Ortega",
+      "E.A. Kuzin",
+      "J.J. Sánchez-Mondragón",
+      "V. A. Vysloukh"
+    ],
+    "journal": "Optics Communications",
+    "volume": "193",
+    "issue": "1-6",
+    "pages": "267-276",
+    "year": 2001,
+    "issn_print": "0030-4018",
+    "issn_online": "",
+    "doi": "10.1016/S0030-4018(01)01240-8"
+  },
+  {
+    "id": 13,
+    "title": "System fusion in passive sensing using a modified hopfield network",
+    "authors": [
+      "Yu. V. Shkvarko",
+      "Yu. S. Shmaliy",
+      "R. Jaime-Rivas",
+      "M. Torres-Cisneros"
+    ],
+    "journal": "Journal of the Franklin Institute",
+    "volume": "338",
+    "issue": "4",
+    "pages": "405-427",
+    "year": 2001,
+    "issn_print": "",
+    "issn_online": "",
+    "doi": "10.1016/S0016-0032(00)00084-3"
+  },
+  {
+    "id": 14,
+    "title": "Acoustically driven optical phenomena in bulk and low-dimensional semiconductors",
+    "authors": [
+      "I.V. Ostrovskii",
+      "O.A. Korotchenkov",
+      "O. Ya. Olikh",
+      "A. A. Podolyan",
+      "R. G. Chupryna",
+      "M. Torres-Cisneros"
+    ],
+    "journal": "Journal of Optics A",
+    "volume": "3",
+    "issue": "4",
+    "pages": "S82-S86",
+    "year": 2001,
+    "issn_print": "",
+    "issn_online": "",
+    "doi": ""
+  },
+  {
+    "id": 15,
+    "title": "Effect of PMMA impregnation on the fluorescence quantum yield of sol-gel glasses doped with quinine sulfate",
+    "authors": [
+      "M.A. Meneses Nava",
+      "O. Barbosa-García",
+      "L.A. Díaz-Torres",
+      "S. Chávez-Cerda",
+      "M. Torres-Cisneros",
+      "T.A. King"
+    ],
+    "journal": "Optical Materials",
+    "volume": "17",
+    "issue": "3",
+    "pages": "415-418",
+    "year": 2001,
+    "issn_print": "",
+    "issn_online": "",
+    "doi": "10.1016/S0925-3467(01)00060-X"
+  },
+  {
+    "id": 16,
+    "title": "Optical switches based on coherent collusion of spatial solitons in a photorefractive crystal",
+    "authors": [
+      "J. A. Andrade-Lucio",
+      "O. G. Ibarra-Manzano",
+      "E. Alvarado-Méndez",
+      "R. Rojas-Laguna",
+      "J. M. Estudillo-Ayala",
+      "M. Torres-Cisneros",
+      "J. A. Álvarez-Jaime",
+      "H. Gutiérrez-Martín"
+    ],
+    "journal": "Revista Mexicana de Física",
+    "volume": "47",
+    "issue": "5",
+    "pages": "431-434",
+    "year": 2001,
+    "issn_print": "",
+    "issn_online": "",
+    "doi": ""
+  },
+  {
+    "id": 17,
+    "title": "A stochastic analysis of an anharmonic sensor phase response",
+    "authors": [
+      "Yuriy S. Shmaliy",
+      "Yuriy Shkvarko",
+      "M. Torres-Cisneros",
+      "R. Rojas-Laguna",
+      "O.G. Ibarra-Manzano"
+    ],
+    "journal": "IEEE Sensors Journal",
+    "volume": "3",
+    "issue": "2",
+    "pages": "158-163",
+    "year": 2003,
+    "issn_print": "",
+    "issn_online": "",
+    "doi": "10.1109/JSEN.2003.812626"
+  },
+  {
+    "id": 18,
+    "title": "Analysis of a Sagnac interferometer with low-birefringence twisted fiber",
+    "authors": [
+      "J. M. Estudillo-Ayala",
+      "J. Ruiz-Pinales",
+      "R. Rojas-Laguna",
+      "J. A. Andrade-Lucio",
+      "O. G Ibarra-Manzano",
+      "E. Alvarado-Méndez",
+      "M. Torres-Cisneros",
+      "B. Ibarra-Escamilla",
+      "E. A. Kuzin"
+    ],
+    "journal": "Journal of Optics and Lasers in Engineering",
+    "volume": "39",
+    "issue": "5-6",
+    "pages": "635-643",
+    "year": 2003,
+    "issn_print": "",
+    "issn_online": "",
+    "doi": "10.1016/S0143-8166(02)00049-0"
+  },
+  {
+    "id": 19,
+    "title": "Enhanced tunable terahertz generation in photonic band-gap structures",
+    "authors": [
+      "J.W. Haus",
+      "P. Powers",
+      "P. Bojja",
+      "M. Torres-Cisneros",
+      "M. Scalora",
+      "M. J. Scalora",
+      "M. J. Bloemer",
+      "N. Akozbek",
+      "M.A. Meneses-Nava"
+    ],
+    "journal": "Laser Physics",
+    "volume": "14",
+    "issue": "5",
+    "pages": "635-642",
+    "year": 2004,
+    "issn_print": "",
+    "issn_online": "",
+    "doi": ""
+  },
+  {
+    "id": 20,
+    "title": "Mechanisms of crossing for an X-Junction based in dark spatial solitons",
+    "authors": [
+      "M. Torres-Cisneros",
+      "L.A. Aguilera-Cortés",
+      "M. A. Meneses-Nava",
+      "J. J. Sanchez-Mondragon",
+      "G. E. Torres-Cisneros"
+    ],
+    "journal": "Journal of Optics B",
+    "volume": "6",
+    "issue": "5",
+    "pages": "S430-S435",
+    "year": 2004,
+    "issn_print": "",
+    "issn_online": "",
+    "doi": "10.1016/j.optmat.2004.11.021"
+  },
+  {
+    "id": 21,
+    "title": "A device approach to propagation in nonlinear photonics crystal",
+    "authors": [
+      "J. Escobedo Alatorre",
+      "J. Sánchez-Mondragón",
+      "M. Torres-Cisneros",
+      "R. Selvas-Aguilar",
+      "M. Basurto-Pensado"
+    ],
+    "journal": "Optical Materials",
+    "volume": "27",
+    "issue": "7",
+    "year": 2005,
+    "pages": "1260-1265",
+    "issn_print": "",
+    "issn_online": "",
+    "doi": "10.1016/j.optmat.2004.11.021"
+  },
+  {
+    "id": 22,
+    "title": "Parametric conversion in a non-lineal photonic crystal",
+    "authors": [
+      "M. Torres-Cisneros",
+      "J. W. Haus",
+      "P. Powers",
+      "P. Bojja",
+      "M. Scalora",
+      "M. J. Bloemer",
+      "N. Akozbek",
+      "L. A. Aguilera-Cortés",
+      "R. Guzman-Cabrera",
+      "R. Castro-Sánchez",
+      "M.A. Meneses-Nava",
+      "J.A. Andrade-Lucio",
+      "J.J. Sánchez-Mondragón"
+    ],
+    "journal": "Revista Mexicana de Física",
+    "volume": "51",
+    "issue": "3",
+    "year": 2005,
+    "pages": "258-264",
+    "issn_print": "",
+    "issn_online": "",
+    "doi": ""
+  },
+  {
+    "id": 23,
+    "title": "Characterization of metal dielectric photonic crystals",
+    "authors": [
+      "A. Zamudio-Lara",
+      "J. Sánchez-Mondragón",
+      "M. Torres-Cisneros",
+      "J. J. Escobedo-Alatorre",
+      "C. Velásquez-Ordoñes",
+      "M. A. Basurto-Pensado",
+      "L.A. Aguilera-Cortés"
+    ],
+    "journal": "Optics Materials",
+    "volume": "29",
+    "issue": "1",
+    "year": 2006,
+    "pages": "60-64",
+    "issn_print": "",
+    "issn_online": "",
+    "doi": "10.1016/j.optmat.2006.03.026"
+  },
+  {
+    "id": 24,
+    "title": "Photonic Density of the states Maps for desing of photonics crystals devices",
+    "authors": [
+      "I.A. Sukhoivanov",
+      "I.V. Guryev",
+      "J.A. Andrade-Lucio",
+      "E. Alvarado-Mendez",
+      "M. Trejo-Duran",
+      "M. Torres-Cisneros"
+    ],
+    "journal": "Microelectronics Journal",
+    "volume": "39",
+    "issue": "3-4",
+    "year": 2008,
+    "pages": "685-689",
+    "issn_print": "",
+    "issn_online": "",
+    "doi": "10.1016/j.mejo.2007.07.091"
+  },
+  {
+    "id": 25,
+    "title": "Yb+3 Quenching Effects in Co-Doped Polycristalline BaTiO3:Er+3, Yb+3",
+    "authors": [
+      "M.A. Meneses-García",
+      "O. Barbosa-García",
+      "J.L. Maldonado",
+      "G. Ramos-Ortiz",
+      "J.L. Pichardo",
+      "M. Torres-Cisneros",
+      "A. García-Murillo",
+      "F.J. Carrillo-Romo"
+    ],
+    "journal": "Optical Materials",
+    "volume": "31",
+    "issue": "2",
+    "year": 2008,
+    "pages": "252-260",
+    "issn_print": "",
+    "issn_online": "",
+    "doi": "10.1016/j.optmat.2008.04.002"
+  },
+  {
+    "id": 26,
+    "title": "Synthesis and Nonlinear Optical behavior of Ag Nanoparticles in PMMA",
+    "authors": [
+      "M. Torres-Cisneros",
+      "Naohisa Yanagihara",
+      "B. Gonzalez-Rolon",
+      "M.A. Meneses-Nava",
+      "O.G. Ibarra-Manzano",
+      "D. A. May-Arrioja",
+      "J. Sánchez-Mondragón",
+      "E. Aguilera-Gómez",
+      "L.A. Aguilera-Cortés"
+    ],
+    "journal": "Microelectronics Journal",
+    "volume": "40",
+    "issue": "3",
+    "year": 2009,
+    "pages": "621-623",
+    "issn_print": "",
+    "issn_online": "",
+    "doi": "10.1016/j.mejo.2008.06.044"
+  },
+  {
+    "id": 27,
+    "title": "Synthesis and Optical Characterization of Ago Nanoparticles",
+    "authors": [
+      "M. Torres-Cisneros",
+      "C. Velásquez-Ordóñez",
+      "J. Sánchez-Mondragón",
+      "A. Campero",
+      "O. G. Ibarra-Manzano",
+      "D. A. May-Arrioja",
+      "H. Plascencia-Mora",
+      "A. Espinoza-Calderón",
+      "I. Sukhoivanov"
+    ],
+    "journal": "Microelectronics Journal",
+    "volume": "40",
+    "issue": "3",
+    "year": 2009,
+    "pages": "618-620",
+    "issn_print": "",
+    "issn_online": "",
+    "doi": "10.1016/j.mejo.2008.06.043"
+  },
+  {
+    "id": 28,
+    "title": "Intermixing of InP-based Multiple Quantum Wells for Integrated Optoelectronic Devices",
+    "authors": [
+      "D. A. May-Arrioja",
+      "N. Bickel",
+      "A. Alejo-Molina",
+      "M. Torres-Cisneros",
+      "J. J. Sanchez-Mondragon",
+      "P. LiKamWa"
+    ],
+    "journal": "Microelectronics Journal",
+    "volume": "40",
+    "issue": "3",
+    "year": 2009,
+    "pages": "574-576",
+    "issn_print": "",
+    "issn_online": "",
+    "doi": "10.1016/j.mejo.2008.06.070"
+  },
+  {
+    "id": 29,
+    "title": "Performance Optimization and Mechanical Modeling of Uniaxial piezoresistive microaccelerometers",
+    "authors": [
+      "Angel R. Cortés-Pérez",
+      "Agustín Leobardo Herrera-May",
+      "Luz A. Aguilera-Cortés",
+      "Max A. González-Palacios",
+      "Miguel Torres-Cisneros"
+    ],
+    "journal": "Microsystem Technologies",
+    "volume": "16",
+    "issue": "3",
+    "year": 2010,
+    "pages": "461-476",
+    "issn_print": "",
+    "issn_online": "",
+    "doi": "10.1007/s00542-009-0942-y"
+  },
+  {
+    "id": 30,
+    "title": "Estudio Acústico Estructural de la Cabina de un Vehículo Automotriz",
+    "authors": [
+      "L. A. Aguilera Cortés",
+      "Leobardo Herrera May",
+      "Miguel Torres Cisneros",
+      "Max Antonio González Palacios",
+      "Emilio J. González Galván"
+    ],
+    "journal": "Revista Ingeniería, Investigación e Tecnología",
+    "volume": "11",
+    "issue": "1",
+    "year": 2010,
+    "pages": "73-86",
+    "issn_print": "1405-7743",
+    "issn_online": "",
+    "doi": ""
+  },
+  {
+    "id": 31,
+    "title": "Characterization of polarization-maintaining photonic crystal fiber as a sensor of magnetic field",
+    "authors": [
+      "A. González-Parada",
+      "J. Ruíz-Pinales",
+      "J.R. Guzmán-Sepúlveda",
+      "D. May-Arrioja",
+      "M. Torres-Cisneros",
+      "R. Guzmán-Cabrera"
+    ],
+    "journal": "International Journal of Thermophysics",
+    "volume": "32",
+    "issue": "8-9",
+    "year": 2011,
+    "pages": "1532-1539",
+    "issn_print": "0195-928X",
+    "issn_online": "",
+    "doi": "10.1007/s10765-011-1035-7"
+  },
+  {
+    "id": 32,
+    "title": "Modeling of the intrinsic stress effect on the resonant frequency of NEMS resonators integrated by beams with variable cross-section",
+    "authors": [
+      "Agustín Leobardo Herrera-May",
+      "Luz A. Aguilera-Cortés",
+      "José Ángel Diosdado-de la Peña",
+      "Miguel Torres-Cisneros",
+      "Héctor Plascencia-Mora",
+      "Ricardo Guzmán-Cabrera",
+      "Juan Carlos Ruiz-Pinales"
+    ],
+    "journal": "Micro & Nano Letters",
+    "volume": "7",
+    "issue": "6",
+    "year": 2012,
+    "pages": "650-654",
+    "issn_print": "1750-0443",
+    "issn_online": "",
+    "doi": "10.1049/mnl.2012.0141"
+  },
+  {
+    "id": 33,
+    "title": "Análisis numérico experimental de desempeño de compuesto híbrido bajo impacto",
+    "authors": [
+      "Luciana Arronche",
+      "Valeria Lasaporana",
+      "Isrrael Martínez Ramírez",
+      "Elías Ledesma Orozco",
+      "Miguel Ernesto Gutiérrez Rivera",
+      "Miguel Torres-Cisneros"
+    ],
+    "journal": "Ingeniería Mecánica; Tecnología y Desarrollo",
+    "volume": "4",
+    "issue": "3",
+    "year": 2012,
+    "pages": "103-113",
+    "issn_print": "1665-7381",
+    "issn_online": "",
+    "doi": ""
+  },
+  {
+    "id": 34,
+    "title": "Multiple active contours guided by differential evolution for medical image segmentation",
+    "authors": [
+      "I. Cruz-Aceves",
+      "J.G. Aviña-Cervantes",
+      "J.M. López-Hernández",
+      "H. Rostro-González",
+      "C.H. García Capulin",
+      "M. Torres-Cisneros",
+      "R. Guzman-Cabrera"
+    ],
+    "journal": "Computational and Mathematical Methods in Medicine",
+    "volume": "1",
+    "year": 2013,
+    "pages": "1-14",
+    "issn_print": "1748-670X",
+    "issn_online": "",
+    "doi": "10.1155/2013/190304"
+  },
+  {
+    "id": 35,
+    "title": "Automatic image segmentation using active contours with univariate marginal distribution",
+    "authors": [
+      "I. Cruz-Aceves",
+      "J.G. Avina-Cervantes",
+      "J.M. Lopez-Hernandez",
+      "M.d.G. Garcia-Hernandez",
+      "M. Torres-Cisneros",
+      "H.J. Estrada-Garcia"
+    ],
+    "journal": "Mathematical Problems in Engineering",
+    "article_id": "419018",
+    "pages": "9",
+    "year": 2013,
+    "issn_print": "1024-123X",
+    "issn_online": "1563-5147",
+    "doi": "10.1155/2013/419018"
+  },
+  {
+    "id": 36,
+    "title": "Topological Optimization Of An Slab Of Polystyrene Foam With Mix Of Densities",
+    "authors": [
+      "Gustavo Capilla-González",
+      "Héctor Plascencia-Mora",
+      "Miguel Torres-Cisneros",
+      "L. Antonio Aguilera-Cortés",
+      "José Ángel Diosdado-de la Peña"
+    ],
+    "journal": "DYNA",
+    "volume": "88",
+    "issue": "4",
+    "year": 2013,
+    "pages": "444-452",
+    "issn_print": "0012-7361",
+    "issn_online": "",
+    "doi": "10.6036/5445"
+  },
+  {
+    "id": 37,
+    "title": "Fast and Accuracy Cell Tracking by Novel Hibrid Method",
+    "authors": [
+      "M. Torres-Cisneros",
+      "J.G. Aviña-Cervantes",
+      "V.I. Tinoco-Solis",
+      "E. Perez-Careta",
+      "F. Ambriz-Colin",
+      "O.G. Ibarra-Manzano",
+      "H. Plascencia-Mora",
+      "E. Aguilera-Gomez"
+    ],
+    "journal": "International Journal of Thermophysics",
+    "volume": "34",
+    "issue": "8-9",
+    "year": 2013,
+    "pages": "1435-1443",
+    "issn_print": "0195-928X",
+    "issn_online": "1572-9567",
+    "doi": "10.1007/s10765-013-1453-8"
+  },
+  {
+    "id": 38,
+    "title": "Digital Image Proccessing Technique for Breast Cancer detection",
+    "authors": [
+      "R. Guzmán-Cabrera",
+      "J.R. Guzmán-Sepulveda",
+      "M. Torres-Cisneros",
+      "D.A. May-Arrioja",
+      "J. Ruiz-Pinales",
+      "O.G. Ibarra-Manzano",
+      "G. Aviña-Cervantes",
+      "A. González-Parada"
+    ],
+    "journal": "International Journal of Thermophysics",
+    "volume": "32",
+    "issue": "8-9",
+    "year": 2013,
+    "pages": "1519-1531",
+    "issn_print": "0195-928X",
+    "issn_online": "1572-9567",
+    "doi": "10.1007/s10765-012-1328-4"
+  },
+  {
+    "id": 39,
+    "title": "Pattern recongnition in photoacoustic dataset",
+    "authors": [
+      "R. Guzmán-Cabrera",
+      "J.R. Guzmán-Sepulveda",
+      "M. Torres-Cisneros",
+      "D.A. May-Arrioja",
+      "J. Ruiz-Pinales",
+      "O.G. Ibarra-Manzano",
+      "G. Aviña-Cervantes"
+    ],
+    "journal": "International Journal of Thermophysics",
+    "volume": "34",
+    "issue": "8-9",
+    "year": 2013,
+    "pages": "1638-1645",
+    "issn_print": "0195-928X",
+    "issn_online": "1572-9567",
+    "doi": "10.1007/s10765-013-1452-9"
+  },
+  {
+    "id": 40,
+    "title": "A Highly Sensitive Fiber Optic Sensor based on two core Fiber for Refractive Index Measurement",
+    "authors": [
+      "J.R. Guzman-Sepulveda",
+      "R. Guzman-Cabrera",
+      "M. Torres-Cisneros",
+      "J.J. Sanchez-Mondragon",
+      "D. May-Arrioja"
+    ],
+    "journal": "Sensors",
+    "volume": "13",
+    "issue": "10",
+    "year": 2013,
+    "pages": "14200-14213",
+    "issn_print": "1424-8220",
+    "issn_online": "",
+    "doi": "10.3390/s131014200"
+  },
+  {
+    "id": 41,
+    "title": "Fiber Optic Sensor for High-Sensivity Salinity Measurement",
+    "authors": [
+      "J.R. Guzman-Sepulveda",
+      "V. Ivan",
+      "M. Torres-Cisneros",
+      "J. Sanchez-Mondragon",
+      "D. May-Arrioja"
+    ],
+    "journal": "Photonic Technology Letters",
+    "volume": "25",
+    "issue": "23",
+    "year": 2013,
+    "pages": "2323-2326",
+    "issn_print": "1041-1135",
+    "issn_online": "",
+    "doi": "10.1109/LPT.2013.2286132"
+  },
+  {
+    "id": 42,
+    "title": "Multi-peak-spectra generation with Cherenkov radiation in a non-uniform single mode fiber",
+    "authors": [
+      "F.R. Arteaga-Sierra",
+      "C. Milian",
+      "I. Torres-Gomez",
+      "M. Torres-Cisneros",
+      "A. Ferrando",
+      "A. Davila"
+    ],
+    "journal": "Optics Express",
+    "volume": "22",
+    "issue": "3",
+    "year": 2014,
+    "pages": "2451-2458",
+    "issn_print": "1094-4087",
+    "issn_online": "",
+    "doi": "10.1364/OE.22.002451"
+  },
+  {
+    "id": 43,
+    "title": "Supercontinuum optimization for dual-soliton based light sources using genetic algorithms in a grid platform",
+    "authors": [
+      "F.R. Arteaga-Sierra",
+      "C. Milian",
+      "I. Torres-Gomez",
+      "M. Torres-Cisneros",
+      "A. Ferrando"
+    ],
+    "journal": "Optics Express",
+    "volume": "22",
+    "issue": "19",
+    "year": 2014,
+    "pages": "23686-23693",
+    "issn_print": "1094-4087",
+    "issn_online": "",
+    "doi": "10.1364/OE.22.002451"
+  },
+  {
+    "id": 44,
+    "title": "Refractive index sensing setup based on a taper and an intrinsic micro Fabry-Perot interferometer",
+    "authors": [
+      "M. Cano-Contreras",
+      "A.D. Guzman-Chavez",
+      "E. Vargas-Rodriguez",
+      "E. Gallegos-Arellano",
+      "D. Jauregui-Vazquez",
+      "R.I. Mata-Chavez",
+      "M. Torres-Cisneros",
+      "R. Rojas-Laguna"
+    ],
+    "journal": "Journal of the European Optical Society-Rapid publications",
+    "volume": "10",
+    "year": 2015,
+    "article_id": "15039",
+    "pages": "",
+    "issn_print": "",
+    "issn_online": "",
+    "doi": "10.2971/jeos.2015.15039"
+  },
+  {
+    "id": 45,
+    "title": "Comparative Analysis of Thermography Studies and Electrical Measurement of Partial Discharges in Underground Power Cables",
+    "authors": [
+      "A. Gonzalez-Parada",
+      "R. Guzman-Cabrera",
+      "M. Torres-Cisneros",
+      "J.R. Guzmán-Sepúlveda"
+    ],
+    "journal": "International Journal of Thermophysics",
+    "volume": "36",
+    "issue": "9",
+    "year": 2015,
+    "pages": "2356-2369",
+    "issn_print": "0195-928X",
+    "issn_online": "",
+    "doi": "10.1007/s10765-015-1926-z"
+  },
+  {
+    "id": 46,
+    "title": "Highly Sensitive Liquid Core Temperature Sensor Based on Multimode Interference Effects",
+    "authors": [
+      "M.A. Fuentes-Fuentes",
+      "D.A. May-Arrioja",
+      "J.R. Guzman-Sepulveda",
+      "M. Torres-Cisneros",
+      "J.J. Sanchez-Mondragon"
+    ],
+    "journal": "Sensors",
+    "volume": "15",
+    "issue": "10",
+    "year": 2015,
+    "pages": "26929-26939",
+    "issn_print": "1424-8220",
+    "issn_online": "",
+    "doi": "10.3390/s151026929"
+  },
+  {
+    "id": 47,
+    "title": "Digital Processing of Thermographic Images for Medical Applications",
+    "authors": [
+      "Rafael Guzman-Cabrera",
+      "Jose Rafael Guzman-Sepulveda",
+      "Adrian Gonzalez Parada",
+      "Juan Rosales Garcia",
+      "Miguel Torres-Cisneros",
+      "Dumitru Baleanu"
+    ],
+    "journal": "Revista De Chimie",
+    "volume": "1",
+    "year": 2016,
+    "pages": "53-56",
+    "issn_print": "",
+    "issn_online": "",
+    "doi": ""
+  },
+  {
+    "id": 48,
+    "title": "Segmentation of Coronary Angiograms Using Gabor Filters and Boltzmann Univariate Marginal Distribution Algorithm",
+    "authors": [
+      "Fernando Cervantes-Sanchez",
+      "Ivan Cruz-Aceves",
+      "Arturo Hernandez-Aguirre",
+      "Juan Gabriel Aviña-Cervantes",
+      "Sergio Solorio-Meza",
+      "Manuel Ornelas-Rodriguez",
+      "Miguel Torres-Cisneros"
+    ],
+    "journal": "Computational Intelligence and Neuroscience",
+    "year": 2016,
+    "article_id": "2420962",
+    "pages": "9",
+    "issn_print": "1687-5265",
+    "issn_online": "1687-5273",
+    "doi": "10.1155/2016/2420962"
+  },
+  {
+    "id": 49,
+    "title": "Optical fiber temperature sensor based on a microcavity with polymer overlay",
+    "authors": [
+      "I. Hernández-Romano",
+      "M.A. Cruz-Garcia",
+      "C. Moreno-Hernández",
+      "D. Monzón-Hernández",
+      "E.O. López-Figueroa",
+      "O.E. Paredes-Gallardo",
+      "M. Torres-Cisneros",
+      "J. Villatoro"
+    ],
+    "journal": "Optic Express",
+    "volume": "24",
+    "issue": "5",
+    "year": 2016,
+    "pages": "5654-5661",
+    "issn_print": "1094-4087",
+    "issn_online": "",
+    "doi": "10.1364/OE.24.005654"
+  },
+  {
+    "id": 50,
+    "title": "Ytterbium Fiber Laser Based on a Three Beam Optical Path Mach–Zehnder Interferometer",
+    "authors": [
+      "Arturo Castillo-Guzman",
+      "Juan M Sierra-Hernandez",
+      "Romeo Selvas-Aguilar",
+      "Daniel Toral-Acosta",
+      "Everardo Vargas-Rodriguez",
+      "Eloisa Gallegos-Arellano",
+      "Miguel Torres-Cisneros",
+      "Maria S Avila-Garcia",
+      "Roberto Rojas-Laguna"
+    ],
+    "journal": "IEEE Photonics Tech. Lett",
+    "volume": "28",
+    "issue": "23",
+    "year": 2016,
+    "pages": "2768-2771",
+    "issn_print": "1041-1135",
+    "issn_online": "1941-0174",
+    "doi": "10.1109/LPT.2016.2616466"
+  },
+  {
+    "id": 51,
+    "title": "Tunable field depth: hyperbolic optical masks",
+    "authors": [
+      "Luis Ledesma-Carrillo",
+      "Rafael Guzmán-Cabrera",
+      "Cristina M Gómez-Sarabia",
+      "Miguel Torres-Cisneros",
+      "Jorge Ojeda-Castañeda"
+    ],
+    "journal": "Applied Optics",
+    "volume": "56",
+    "issue": "1",
+    "year": 2017,
+    "pages": "A104-A114",
+    "issn_print": "1559-128X",
+    "issn_online": "2155-3165",
+    "doi": "10.1364/AO.56.00A104"
+  },
+  {
+    "id": 52,
+    "title": "Optimization for maximum Raman frequency conversion in supercontinuum sources using genetic algorithms",
+    "authors": [
+      "F.R. Arteaga-Sierra",
+      "C. Milián",
+      "I. Torres-Gómez",
+      "M. Torres-Cisneros",
+      "H. Plascencia-Mora",
+      "G. Moltó",
+      "A. Ferrando"
+    ],
+    "journal": "Revista Mexicana de Física",
+    "volume": "63",
+    "issue": "2",
+    "year": 2017,
+    "pages": "111-116",
+    "issn_print": "0035-001X",
+    "issn_online": "",
+    "doi": ""
+  },
+  {
+    "id": 53,
+    "title": "Tunable sinusoidal Phase Gratings and sinusoidal Phase Zone Plates",
+    "authors": [
+      "Jorge Ojeda-Castañeda",
+      "Cristina M. Gómez-Sarabia",
+      "Miguel Torres-Cisneros",
+      "Luis M. Ledesma-Carrillo",
+      "Rafael Guzmán-Cabrera",
+      "Cipriano Guzmán-Cano"
+    ],
+    "journal": "Photonics Letters of Poland",
+    "volume": "9",
+    "issue": "2",
+    "year": 2017,
+    "pages": "57-59",
+    "issn_print": "2080-2242",
+    "issn_online": "",
+    "doi": "10.4302/plp.v9i2.729"
+  },
+  {
+    "id": 54,
+    "title": "Hadamard Circular Mask: high focal depth with high troughput",
+    "authors": [
+      "Luis M. Ledesma-Carrillo",
+      "Cristina M. Gómez-Sarabia",
+      "Miguel Torres-Cisneros",
+      "Rafael Guzmán-Cabrera",
+      "Cipriano Guzmán-Cano",
+      "Jorge Ojeda-Castañeda"
+    ],
+    "journal": "Optics Express",
+    "volume": "25",
+    "issue": "15",
+    "year": 2017,
+    "pages": "17004-17020",
+    "issn_print": "1094-4087",
+    "issn_online": "",
+    "doi": "10.1364/OE.25.017004"
+  },
+  {
+    "id": 55,
+    "title": "Pseudo-Random Mask for Angular Aligment",
+    "authors": [
+      "Cristina M. Gómez-Sarabia",
+      "Luis M. Ledesma-Carrillo",
+      "Cipriano Guzmán-Cano",
+      "Miguel Torres-Cisneros",
+      "Rafael Guzmán-Cabrera",
+      "Jorge Ojeda-Castañeda"
+    ],
+    "journal": "Applied Optics",
+    "volume": "56",
+    "issue": "28",
+    "year": 2017,
+    "pages": "7869-7876",
+    "issn_print": "1559-128X",
+    "issn_online": "2155-3165",
+    "doi": "10.1364/AO.56.007869"
+  },
+  {
+    "id": 56,
+    "title": "Prism-based Surface Plasmon Resonance for Dual-Parameter Sensing",
+    "authors": [
+      "D. Monzón-Hernández",
+      "J.S. Velázquez-González",
+      "D. Luna-Moreno",
+      "M. Torres-Cisneros",
+      "I. Hernández-Romano"
+    ],
+    "journal": "IEEE Sensors Journal",
+    "volume": "18",
+    "issue": "10",
+    "year": 2018,
+    "pages": "4030-4037",
+    "issn_print": "1558-1748",
+    "issn_online": "",
+    "doi": "10.1109/JSEN.2018.2818064"
+  },
+  {
+    "id": 57,
+    "title": "Novel Structures Configurations for Long Range Surface Plasmon-Polaritron",
+    "authors": [
+      "M. Torres-Cisneros",
+      "M.A. Fuentes-Fuentes",
+      "D.A. May-Arrioja",
+      "J.R. Guzmán-Sepúlveda",
+      "P. LikamWa"
+    ],
+    "journal": "Computación y Sistemas",
+    "volume": "23",
+    "issue": "1",
+    "year": 2019,
+    "pages": "121-126",
+    "issn_print": "2007-9737",
+    "issn_online": "",
+    "doi": "10.13053/CyS-23-1-3172"
+  },
+  {
+    "id": 58,
+    "title": "Cardiac Abnormalities Detection from Compressed ECG",
+    "authors": [
+      "M. Torres-Cisneros",
+      "R. Guzmán-Cabrera",
+      "S. Villalobos",
+      "D.A. May-Arrioja",
+      "F. Martell"
+    ],
+    "journal": "Computación y Sistemas",
+    "volume": "23",
+    "issue": "1",
+    "year": 2019,
+    "pages": "95-100",
+    "issn_print": "2007-9737",
+    "issn_online": "",
+    "doi": "10.13053/CyS-23-1-3171"
+  },
+  {
+    "id": 59,
+    "title": "Effect of the Trivalent Erbium Concentration on the Luminescent Properties of TiO2 Er3+ Composites",
+    "authors": [
+      "Octavio Olvera R",
+      "Karely Chamé F",
+      "José Javier Sánchez Mondragón",
+      "Miguel Torres Cisneros",
+      "María Luisa Ojeda Martínez",
+      "Celso Velásquez Ordoñez"
+    ],
+    "journal": "Computación y Sistemas",
+    "volume": "23",
+    "issue": "1",
+    "year": 2019,
+    "pages": "89-94",
+    "issn_print": "2007-9737",
+    "issn_online": "",
+    "doi": "10.13053/CyS-23-1-3145"
+  },
+  {
+    "id": 60,
+    "title": "Effect of the Erbium Concentration in the Luminescent Properties of ZrO2",
+    "authors": [
+      "Miguel Ojeda Martínez",
+      "José Javier Sánchez Mondragón",
+      "Daniel Alberto May Arrioja",
+      "Miguel Torres-Cisneros",
+      "María Luisa Ojeda Martínez",
+      "Celso Velásquez Ordoñez"
+    ],
+    "journal": "Computación y Sistemas",
+    "volume": "23",
+    "issue": "1",
+    "year": 2019,
+    "pages": "21-25",
+    "issn_print": "2007-9737",
+    "issn_online": "",
+    "doi": "10.13053/CyS-23-1-3135"
+  },
+  {
+    "id": 61,
+    "title": "A Numerical Perspective on the Jaynes-Cummings Model Wigner Function",
+    "authors": [
+      "J. C. García-Melgarejo",
+      "N. Lozano-Crisóstomo",
+      "J. Jesús Escobedo-Alatorre",
+      "K. J. Sánchez-Pérez",
+      "M. Torres-Cisneros",
+      "E. S. Arroyo-Rivera",
+      "R. Guzmán-Cabrera"
+    ],
+    "journal": "Computación y Sistemas",
+    "volume": "23",
+    "issue": "3",
+    "pages": "1125-1132",
+    "year": 2019,
+    "issn_print": "2007-9737",
+    "issn_online": "",
+    "doi": "10.13053/cys-23-3-3136"
+  },
+  {
+    "id": 62,
+    "title": "Suspended LRSPP for the development of highly integrated active plasmonic devices Sensing",
+    "authors": [
+      "M.A. Fuentes-Fuentes",
+      "D.A. May-Arrioja",
+      "J.R. Guzmán-Sepúlveda",
+      "F.A. Arteaga-Sierra",
+      "M. Torres-Cisneros",
+      "P. LikamWa",
+      "J.J. Sánchez-Mondragón"
+    ],
+    "journal": "Optics Express",
+    "volume": "27",
+    "issue": "6",
+    "pages": "8858-8870",
+    "year": 2019,
+    "issn_print": "1094-4087",
+    "issn_online": "",
+    "doi": "10.1364/OE.27.008858"
+  },
+  {
+    "id": 63,
+    "title": "Laser-Induced Deposition of Carbon Nanotubes in Fiber Optic Tips of MMI Devices",
+    "authors": [
+      "Natanael Cuando-Espitia",
+      "Juan Bernal-Martínez",
+      "Miguel Torres-Cisneros",
+      "Daniel May-Arrioja"
+    ],
+    "journal": "Sensors",
+    "volume": "19",
+    "issue": "20",
+    "pages": "4512",
+    "year": 2019,
+    "issn_print": "1424-8220",
+    "issn_online": "",
+    "doi": "10.3390/s19204512"
+  },
+  {
+    "id": 64,
+    "title": "Ultra-high sensitivity temperature sensor using a fiber loop mirror based on a water-filled asymmetric two-hole fiber",
+    "authors": [
+      "Rodolfo Martínez-Manuel",
+      "Daniel A May-Arrioja",
+      "Jesús Acevedo-Mijangos",
+      "René F Domínguez-Cruz",
+      "Daniel López-Cortés",
+      "Miguel Torres-Cisneros"
+    ],
+    "journal": "IEEE Sensors Journal",
+    "volume": "20",
+    "issue": "11",
+    "pages": "5953-5961",
+    "year": 2020,
+    "issn_print": "1558-1748",
+    "issn_online": "",
+    "doi": "10.1109/JSEN.2020.2974889"
+  },
+  {
+    "id": 65,
+    "title": "Sensitivity Enhancement of Curvature Fiber Sensor Based on Polymer-Coated Capillary Hollow-Core Fiber",
+    "authors": [
+      "Luis A Herrera-Piad",
+      "Iván Hernández-Romano",
+      "Daniel A May-Arrioja",
+      "Vladimir P Minkovich",
+      "Miguel Torres-Cisneros"
+    ],
+    "journal": "Sensors",
+    "volume": "20",
+    "issue": "13",
+    "pages": "3763",
+    "year": 2020,
+    "issn_print": "1424-8220",
+    "issn_online": "",
+    "doi": "10.3390/s20133763"
+  },
+  {
+    "id": 66,
+    "title": "All-Fiber Measurement of Surface Tension Using a Two-Hole Fiber",
+    "authors": [
+      "Jose R Guzman-Sepulveda",
+      "Daniel A May-Arrioja",
+      "Miguel A Fuentes-Fuentes",
+      "Natanael Cuando-Espitia",
+      "Miguel Torres-Cisneros",
+      "Karina Gonzalez-Gutierrez",
+      "Patrick LiKamWa"
+    ],
+    "journal": "Sensors",
+    "volume": "20",
+    "issue": "15",
+    "pages": "4219",
+    "year": 2020,
+    "issn_print": "1424-8220",
+    "issn_online": "",
+    "doi": "10.3390/s20154219"
+  },
+  {
+    "id": 67,
+    "title": "Temperature-independent curvature sensor based on in-fiber Mach-Zehnder interferometer using hollow-core fiber",
+    "authors": [
+      "S. Marrujo-García",
+      "I. Hernández-Romano",
+      "M. Torres-CIsneros",
+      "D.A. May-Arrioja",
+      "Vladimir P Minkovich",
+      "D. Monzón-Hernandez"
+    ],
+    "journal": "Journal of Lightwave Technology",
+    "volume": "38",
+    "issue": "15",
+    "pages": "4166-4173",
+    "year": 2020,
+    "issn_print": "0733-8724",
+    "issn_online": "1558-2213",
+    "doi": "10.1109/JLT.2020.2985041"
+  },
+  {
+    "id": 68,
+    "title": "Dual-point refractive index measurements using coupled seven-core fibers",
+    "authors": [
+      "Natanael Cuando-Espitia",
+      "Miguel Angel Fuentes-fuentes",
+      "Daniel Alberto May-Arrioja",
+      "Ivan Hernandez-Romano",
+      "Rodolfo Martinez Manuel",
+      "Miguel Torres-Cisneros"
+    ],
+    "journal": "Journal of Lightwave Technology",
+    "volume": "39",
+    "issue": "1",
+    "pages": "310-319",
+    "year": 2021,
+    "issn_print": "0733-8724",
+    "issn_online": "1558-2213",
+    "doi": "10.1109/JLT.2020.3022885"
+  },
+  {
+    "id": 69,
+    "title": "In-Line Mach–Zehnder Interferometers Based on a Capillary Hollow-Core Fiber Using Vernier Effect for a Highly Sensitive Temperature Sensor",
+    "authors": [
+      "S. Marrujo-García",
+      "I. Hernández-Romano",
+      "D.A. May-Arrioja",
+      "V.P. Minkovich",
+      "M. Torres-Cisneros"
+    ],
+    "journal": "Sensors",
+    "volume": "21",
+    "issue": "16",
+    "pages": "5471",
+    "year": 2021,
+    "issn_print": "1424-8220",
+    "issn_online": "",
+    "doi": "10.3390/s21165471"
+  },
+  {
+    "id": 70,
+    "title": "Narrow spectral linewidth and tunable erbium-doped fiber ring laser using a MZI based on CHCF",
+    "authors": [
+      "S. Marrujo-García",
+      "L.A. Herrera-Piad",
+      "I. Hernández-Romano",
+      "Daniel A May-Arrioja",
+      "Vladimir P Minkovich",
+      "Miguel Torres-Cisneros"
+    ],
+    "journal": "Optical Fiber Technology",
+    "volume": "67",
+    "pages": "102739",
+    "year": 2021,
+    "issn_print": "1068-5200",
+    "issn_online": "",
+    "doi": "10.1016/j.yofte.2021.102739"
+  },
+  {
+    "id": 71,
+    "title": "Extended axial irradiances: Barker rings",
+    "authors": [
+      "C.M. Gómez-Sarabia",
+      "A. Sauceda-Carvajal",
+      "L.M. Ledesma-Carrillo",
+      "Miguel Torres-Cisneros",
+      "Jorge Ojeda-Castañeda"
+    ],
+    "journal": "Optics Express",
+    "volume": "29",
+    "issue": "24",
+    "pages": "39709-39717",
+    "year": 2021,
+    "issn_print": "1094-4087",
+    "issn_online": "",
+    "doi": "10.1364/OE.438772"
+  },
+  {
+    "id": 72,
+    "title": "Classification of medical images using machine learning",
+    "authors": [
+      "E. Pérez-Careta",
+      "J.R. Guzmán-Sepúlveda",
+      "J.M. Lozano-García",
+      "Miguel Torres-Cisneros",
+      "Rafael Guzman-Cabrera"
+    ],
+    "journal": "DYNA",
+    "volume": "97",
+    "issue": "1",
+    "pages": "35-38",
+    "year": 2022,
+    "issn_print": "0012-7361",
+    "issn_online": "",
+    "doi": "10.6036/10117"
+  },
+  {
+    "id": 73,
+    "title": "One-class Classification for Identifying COVID-19 in X-Ray Images",
+    "authors": [
+      "E. Perez-Careta",
+      "D.I. Hernández-Farías",
+      "J.R. Guzman-Sepulveda",
+      "Miguel Torres Cisneros",
+      "Teodoro Cordoba-Fraga",
+      "Juan Carlos Martinez Espinoza",
+      "Rafael Guzman-Cabrera"
+    ],
+    "journal": "Programming and Computer Software",
+    "volume": "48",
+    "issue": "4",
+    "pages": "235-242",
+    "year": 2022,
+    "issn_print": "",
+    "issn_online": "",
+    "doi": "10.1134/S0361768822040041"
+  },
+  {
+    "id": 74,
+    "title": "Highly Stable Switchable Emissions of an Erbium-Doped Fiber Ring Laser Using Cascaded MZIs Based on CHCFs",
+    "authors": [
+      "L.A. Herrera-Piad",
+      "S. Marrujo-García",
+      "I. Hernández-Romano",
+      "Daniel A May-Arrioja",
+      "Vladimir P Minkovich",
+      "Miguel Torres-Cisneros"
+    ],
+    "journal": "Machines",
+    "volume": "10",
+    "issue": "10",
+    "pages": "962",
+    "year": 2022,
+    "issn_print": "2075-1702",
+    "issn_online": "",
+    "doi": "10.3390/machines10100962"
+  },
+  {
+    "id": 75,
+    "title": "Highly Coupled Seven-Core Fiber for Ratiometric Anti-Phase Sensing",
+    "authors": [
+      "Natanael Cuando-Espitia",
+      "Andrés Camarillo-Avilés",
+      "Daniel A May-Arrioja",
+      "Iván Hernández-Romano",
+      "Miguel Torres-Cisneros"
+    ],
+    "journal": "Sensors",
+    "volume": "23",
+    "issue": "16",
+    "pages": "7241",
+    "year": 2023,
+    "issn_print": "1424-8220",
+    "issn_online": "",
+    "doi": "10.3390/s23167241"
+  },
+  {
+    "id": 76,
+    "title": "Automatic recognition of automobiles using machine learning",
+    "authors": [
+      "Deborah Martínez",
+      "Miguel Torres-Cisneros",
+      "Daniel May-Arrioja",
+      "Mary Carmen Peña-Gomar",
+      "Rafael Guzmán-Cabrera"
+    ],
+    "journal": "DYNA",
+    "volume": "98",
+    "issue": "5",
+    "pages": "511-516",
+    "year": 2023,
+    "issn_print": "0012-7361",
+    "issn_online": "",
+    "doi": "10.6036/10673"
+  }
+]
