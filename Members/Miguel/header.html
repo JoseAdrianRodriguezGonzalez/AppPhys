@@ -3,29 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-        tailwind.config = {
-        theme: {
-            extend: {
-            colors: {
-                'miguel-white':'#fff',
-                'miguel-blue': '#004a88',
-                'miguel-gold': '#ffd700'
-            },
-            fontFamily: {
-                sans: ['Segoe UI', 'Roboto', 'sans-serif'],
-            }
-            }
-        }
-        }
-    </script>
-    <title>Miguel</title>
+    <title>Document</title>
 </head>
-<body class="bg-miguel-white text-white font-sans">
-    <!--<header class="bg-miguel-blue">
-
-        <div class="flex flex-row items-end  border-b-2 border-b-white/80"> 
+<body>
+    <header class="bg-miguel-blue">
+        <div class="flex flex-row items-end  border-b-2 border-b-white/80"> <!--Top part-->
             <div class="w-20 flex-1 pb-4 pl-2">
                 <span class="text-sm sm:text-base md:text-lg  lg:text-[2.3vw] font-bold">    
                     Applied Physics and Advanced Technologies
@@ -37,7 +19,8 @@
         </div>
         <div class="p-3 text-sm sm:text-base md:text-lg lg:text-[1.vw]">
             Miguel Torres-Cisneros
-        </div> 
+        </div> <!--bottom part-->
+       
         <nav class="bg-[#ABABAB] font-semibold relative z-10">
             <div class="flex justify-between items-center p-4 md:hidden">
                 <span class="text-lg">Menú</span>
@@ -88,67 +71,37 @@
                 </div>
             </div>
         </nav>
-
-
-    </header>-->
-    <div id="header-placeholder"></div>
-    <main class="my-10">
-        <section class="grid grid-row-2 md:grid-cols-3  m-20 md:h-[50vh] shadow-xl shadow-grey-600 ">
-            <div class="bg-[#e3eaf8]  flex md:justify-center items-center">
-                <img class="" src="../../img/miguel_Torres.jpg" alt="">
-            </div>
-            <div class="md:col-span-2 text-black bg-[#f9fafc] p-5">
-                <h1 class="text-[#3f51b5] font-sans text-2xl  text-bold">Dr. Miguel Torres-Cisneros</h1>
-                <div class="flex flex-col my-2">
-                    <strong class="text-bold">Electronics Department</strong>
-                    <a class="text-[#3f51b5]" href="https://www.ugto.mx/directorio-universidad-guanajuato/campus-irapuato-salamanca/division-de-ingenierias">University of Guanajuato</a>
-                </div>
-                <div class="flex flex-col my-2">
-                    <a class="" href="https://www.google.com.mx/maps/dir/Valle+de+Santiago,+GTO/Salamanca,+GTO/Universidad+de+Guanajuato+Campus+Irapuato-Salamanca,+Comunidad+de+Palo+Blanco,+Salamanca,+Gto.,+Guanajuato/@20.4837865,-101.385277,11.63z/data=!4m20!4m19!1m5!1m1!1s0x842c8d0935957e15:0x3a870577baeca000!2m2!1d-101.1900528!2d20.392169!1m5!1m1!1s0x842c85091a5c9245:0xe706e4729b35eac!2m2!1d-101.1957172!2d20.5739314!1m5!1m1!1s0x842c8fbb11194463:0xec7f5676b9dd5a9b!2m2!1d-101.1935481!2d20.5070939!3e0">
-                        <span>Carretera Salamanca-Valle Km. 3+2</span>
-                        <span>Comunidad de Palo Blanco, Salamanca, Gto. C.P. 36885</span>
-                    </a>
-                    <span>Office: 318 <br>Phone: +52 (464) 6479940 ext. 2462</span>
-                    <span >Email: <a href="mailto:torres.cisneros@ugto.mx" class="text-[#3f51b5]">torres.cisneros en ugto.mx</a></span>
-                </div>
-                <ol class="list-disc mx-5">
-                    <li>Former President of the <a href="http://amo-ac.mx/sitio/" class="text-[#3f51b5]"> Mexican Academy for Optics</a></li>
-                    <li>Fellow of the <a class="text-[#3f51b5]" href="http://amc.edu.mx/amc/"> Mexican Academy of Sciences</a></li>
-                    <li>National Researcher, Rank 2</li>
-                </ol>
-            </div>
-        </section>
-    </main>
-    <div id="footer-placeholder"></div>
-  <!--  <footer class=" grid grid-row-2 justify-center items-center bg-gray-400">
-        <div class="flex flex-row p-5 gap-2">
-            <div class="border-r-2 border-r-gray-200 p-2">
-                <a href="http://www.ugto.mx">Universidad de Guanajuato</a>
-            </div>
-            <div class="border-r-2 border-r-gray-200 p-2">
-                <a href="http://www.ingenierias.ugto.mx/DI/estructura/">División de Ingenierías Campus Irapuato Salamanca</a>
-            </div>
-            <div class=" p-2">
-                <a href="http://photonics-mexico.com/">Photonics Mexico</a>
-            </div>
-        </div>
-        <div class="flex justify-center">
-            <p class="text-center">
-                Km 3+2 Salamanca-Valle Road<br>
-                Salamanca,  Guanajuato C.P. 36000, Mexico.<br>
-                Tel: +(52) 464 647 99 40   , Ext. 2462 Email: torrescisneros@gmail.com
-            </p>
-        </div>
-    </footer> -->
+    </header>
 </body>
 <script>
-    document.addEventListener('DOMContentLoaded',()=>{
-        fetch('header.html')
-            .then(res=>res.text())
-            .then(html=>document.getElementById('header-placeholder').innerHTML=html);
-        fetch('footer.html')
-            .then(res=>res.text())
-            .then(html=>document.getElementById('footer-placeholder').innerHTML=html);
+    const toggle = document.getElementById('menu-toggle');
+    const menu = document.getElementById('menu');
+    toggle.addEventListener('click', () => {
+        menu.classList.toggle('hidden');
+    });
+    document.addEventListener("DOMContentLoaded",()=>{
+        const toggles=document.querySelectorAll(".toggle-submenu");
+        toggles.forEach(toggle=>{
+            toggle.addEventListener("click",(e)=>{
+                console.log(toggle);
+                e.stopPropagation();
+                const targetId=toggle.getAttribute("data-target");
+                const submenu=document.getElementById(targetId);
+                document.querySelectorAll(".submenu").forEach(menu=>{
+                    if(menu !== submenu) {
+                        menu.classList.add("hidden");
+                    }
+                });
+                
+                // Alternar el submenú actual
+                submenu.classList.toggle("hidden");
+            });
+        });
+        document.addEventListener("click",()=>{
+            document.querySelectorAll(".submenu").forEach(menu=>{
+                menu.classList.add("hidden");
+            })
+        })
     })
 </script>
 </html>

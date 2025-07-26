@@ -1,0 +1,52 @@
+.publications {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.year {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-top: 2rem;
+  color: #004a88;
+  border-bottom: 2px solid #004a88;
+  padding-bottom: 0.3rem;
+}
+
+.publication {
+  background: #f4f9ff;
+  border-left: 5px solid #3d94db;
+  margin: 1rem 0;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 0 5px #ccc;
+}
+
+.publication .title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #003366;
+}
+
+.publication .authors {
+  margin: 0.5rem 0;
+  color: #444;
+}
+
+.publication .journal,
+.publication .doi {
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.publication .pdf {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: #0077cc;
+  text-decoration: none;
+}
+
+.publication .pdf:hover {
+  text-decoration: underline;
+}
