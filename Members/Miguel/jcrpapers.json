@@ -16,7 +16,8 @@
     "year": 1992,
     "issn_print": "0035-001X",
     "issn_online": "",
-    "doi": ""
+    "doi": "",
+    "link":"ArticulosJCR/1992_Paper-2_Limits.pdf"
   },
   {
     "id": 2,
@@ -34,7 +35,8 @@
     "year": 1993,
     "issn_print": "0035-001X",
     "issn_online": "",
-    "doi": ""
+    "doi": "", 
+    "link":"ArticulosJCR/1993_Paper-2_Efecto.pdf" 
   },
   {
     "id": 3,
@@ -52,7 +54,8 @@
     "year": 1993,
     "issn_print": "0035-001X",
     "issn_online": "",
-    "doi": ""
+    "doi": "",
+    "link":"ArticulosJCR/1993_Paper-3_Distortionless.pdf"
   },
   {
     "id": 4,
@@ -71,11 +74,12 @@
     "year": 1995,
     "issn_print": "0035-001X",
     "issn_online": "",
-    "doi": ""
+    "doi": "",
+    "link":"ArticulosJCR/1995_Paper-4_Soliton.pdf" 
   },
   {
     "id": 5,
-    "title": "Experimental evidence of modulation instability in a photorefractive BiTiO crystal",
+    "title": "Experimental evidence of modulation instability in a photorefractive BiTiOcrystal",
     "authors": [
       "M.D. Iturbe-Castillo",
       "M. Torres-Cisneros",
@@ -92,7 +96,8 @@
     "year": 1995,
     "issn_print": "0146-9592",
     "issn_online": "1539-4794",
-    "doi": "10.1364/OL.20.001853"
+    "doi": "10.1364/OL.20.001853",
+    "link":"ArticulosJCR/1995_Paper-5_Experimental.pdf" 
   },
   {
     "id": 6,
@@ -112,7 +117,8 @@
     "year": 1995,
     "issn_print": "0035-001X",
     "issn_online": "",
-    "doi": ""
+    "doi": "",
+    "link":"ArticulosJCR/1995_Paper-6_Guias.pdf" 
   },
   {
     "id": 7,
@@ -131,7 +137,8 @@
     "year": 1996,
     "issn_print": "1068-5200",
     "issn_online": "",
-    "doi": ""
+    "doi": "",
+    "link":"ArticulosJCR/1996_Paper-7_Femtosecond.pdf" 
   },
   {
     "id": 8,
@@ -150,7 +157,8 @@
     "year": 1998,
     "issn_print": "0306-8919",
     "issn_online": "1572-817X",
-    "doi": "10.1023/A:1006915616104"
+    "doi": "10.1023/A:1006915616104",
+    "link":"ArticulosJCR/1998_Paper-09_Internal.pdf" 
   },
   {
     "id": 9,
@@ -171,11 +179,12 @@
     "year": 1999,
     "issn_print": "0030-4018",
     "issn_online": "",
-    "doi": "10.1016/S0030-4018(99)00430-7"
+    "doi": "10.1016/S0030-4018(99)00430-7",
+    "link":"ArticulosJCR/1995_Paper-10_Stimulated.pdf"
   },
   {
     "id": 10,
-    "title": "Optical switching by coherent collision of spatial solitons",
+    "title": "Collision of spatial solitons: New proposals for development of optical switches",
     "authors": [
       "J.A. Andrade-Lucio",
       "E. Alvarado-Méndez",
@@ -190,33 +199,11 @@
     "year": 2000,
     "issn_print": "0013-5194",
     "issn_online": "1350-911X",
-    "doi": "10.1049/el:20001018"
+    "doi": "10.1049/el:20001018",
+    "link":"" 
   },
   {
     "id": 11,
-    "title": "Optical interruptors based on total internal reflection of spatial solitons in saturable nonlinear interfaces",
-    "authors": [
-      "E. Alvarado-Méndez",
-      "M. Torres-Cisneros",
-      "D. A. Gutierrez-Hernández",
-      "J.A. Andrade-Lucio",
-      "R. Rojas-Laguna",
-      "J. C. Pedraza-Ortega",
-      "G. E. Torres-Cisneros",
-      "J.J. Sánchez-Mondragón",
-      "G. Flores-Alvarado"
-    ],
-    "journal": "Revista Mexicana de Física",
-    "volume": "47",
-    "issue": "3",
-    "pages": "264-270",
-    "year": 2001,
-    "issn_print": "0035-001X",
-    "issn_online": "",
-    "doi": ""
-  },
-  {
-    "id": 12,
     "title": "Total Internal reflection of spatial solitons in interface formed by nonlinear Saturable-Linear",
     "authors": [
       "E. Alvarado-Méndez",
@@ -236,7 +223,32 @@
     "year": 2001,
     "issn_print": "0030-4018",
     "issn_online": "",
-    "doi": "10.1016/S0030-4018(01)01240-8"
+    "doi": "10.1016/S0030-4018(01)01240-8",
+    "link":"ArticulosJCR/01_Paper-12_Total.pdf"
+  },
+  {
+    "id": 12,
+    "title": "Interruptores ópticos basados en la reflexión interna total de solitones espaciales en interfaces no lineales saturables",
+    "authors": [
+      "E. Alvarado-Méndez",
+      "M. Torres-Cisneros",
+      "D. A. Gutierrez-Hernández",
+      "J.A. Andrade-Lucio",
+      "R. Rojas-Laguna",
+      "J. C. Pedraza-Ortega",
+      "G. E. Torres-Cisneros",
+      "J.J. Sánchez-Mondragón",
+      "G. Flores-Alvarado"
+    ],
+    "journal": "Revista Mexicana de Física",
+    "volume": "47",
+    "issue": "3",
+    "pages": "264-270",
+    "year": 2001,
+    "issn_print": "0035-001X",
+    "issn_online": "",
+    "doi": "",
+    "link":"ArticulosJCR/01_Paper-13_Interruptores.pdf"
   },
   {
     "id": 13,
@@ -254,7 +266,8 @@
     "year": 2001,
     "issn_print": "",
     "issn_online": "",
-    "doi": "10.1016/S0016-0032(00)00084-3"
+    "doi": "10.1016/S0016-0032(00)00084-3",
+    "link":"ArticulosJCR/01_Paper-14_System.pdf"
   },
   {
     "id": 14,
@@ -274,7 +287,8 @@
     "year": 2001,
     "issn_print": "",
     "issn_online": "",
-    "doi": ""
+    "doi": "",
+    "link":"ArticulosJCR/01_Paper-15_Acoustically.pdf"
   },
   {
     "id": 15,
@@ -294,11 +308,12 @@
     "year": 2001,
     "issn_print": "",
     "issn_online": "",
-    "doi": "10.1016/S0925-3467(01)00060-X"
+    "doi": "10.1016/S0925-3467(01)00060-X",
+    "link":"ArticulosJCR/01_Paper-16_Effect.pdf"
   },
   {
     "id": 16,
-    "title": "Optical switches based on coherent collusion of spatial solitons in a photorefractive crystal",
+    "title": "Interruptores ópticos basados en la colisión coherente de solitones espaciales en un cristal fotorrefractivo",
     "authors": [
       "J. A. Andrade-Lucio",
       "O. G. Ibarra-Manzano",
@@ -316,29 +331,11 @@
     "year": 2001,
     "issn_print": "",
     "issn_online": "",
-    "doi": ""
+    "doi": "",
+    "link":"ArticulosJCR/01_Paper-17_Interruptores.pdf"
   },
   {
     "id": 17,
-    "title": "A stochastic analysis of an anharmonic sensor phase response",
-    "authors": [
-      "Yuriy S. Shmaliy",
-      "Yuriy Shkvarko",
-      "M. Torres-Cisneros",
-      "R. Rojas-Laguna",
-      "O.G. Ibarra-Manzano"
-    ],
-    "journal": "IEEE Sensors Journal",
-    "volume": "3",
-    "issue": "2",
-    "pages": "158-163",
-    "year": 2003,
-    "issn_print": "",
-    "issn_online": "",
-    "doi": "10.1109/JSEN.2003.812626"
-  },
-  {
-    "id": 18,
     "title": "Analysis of a Sagnac interferometer with low-birefringence twisted fiber",
     "authors": [
       "J. M. Estudillo-Ayala",
@@ -358,10 +355,51 @@
     "year": 2003,
     "issn_print": "",
     "issn_online": "",
-    "doi": "10.1016/S0143-8166(02)00049-0"
+    "doi": "10.1016/S0143-8166(02)00049-0",
+    "link":"ArticulosJCR/03_Paper-18_Analysis.pdf"
   },
   {
+    "id": 18,
+    "title": "A stochastic analysis of an anharmonic sensor phase response",
+    "authors": [
+      "Yuriy S. Shmaliy",
+      "Yuriy Shkvarko",
+      "M. Torres-Cisneros",
+      "R. Rojas-Laguna",
+      "O.G. Ibarra-Manzano"
+    ],
+    "journal": "IEEE Sensors Journal",
+    "volume": "3",
+    "issue": "2",
+    "pages": "158-163",
+    "year": 2003,
+    "issn_print": "",
+    "issn_online": "",
+    "doi": "10.1109/JSEN.2003.812626",
+    "link":"ArticulosJCR/03_Paper-19_Astochastic.pdf"
+  },
+    {
     "id": 19,
+    "title": "Mechanisms of crossing for an X-Junction based in dark spatial solitons",
+    "authors": [
+      "M. Torres-Cisneros",
+      "L.A. Aguilera-Cortés",
+      "M. A. Meneses-Nava",
+      "J. J. Sanchez-Mondragon",
+      "G. E. Torres-Cisneros"
+    ],
+    "journal": "Journal of Optics B",
+    "volume": "6",
+    "issue": "5",
+    "pages": "S430-S435",
+    "year": 2004,
+    "issn_print": "",
+    "issn_online": "",
+    "doi": "10.1016/j.optmat.2004.11.021",
+    "link":"ArticulosJCR/04_Paper-20_Mechanisms.pdf"
+  },
+  {
+    "id": 20,
     "title": "Enhanced tunable terahertz generation in photonic band-gap structures",
     "authors": [
       "J.W. Haus",
@@ -381,26 +419,8 @@
     "year": 2004,
     "issn_print": "",
     "issn_online": "",
-    "doi": ""
-  },
-  {
-    "id": 20,
-    "title": "Mechanisms of crossing for an X-Junction based in dark spatial solitons",
-    "authors": [
-      "M. Torres-Cisneros",
-      "L.A. Aguilera-Cortés",
-      "M. A. Meneses-Nava",
-      "J. J. Sanchez-Mondragon",
-      "G. E. Torres-Cisneros"
-    ],
-    "journal": "Journal of Optics B",
-    "volume": "6",
-    "issue": "5",
-    "pages": "S430-S435",
-    "year": 2004,
-    "issn_print": "",
-    "issn_online": "",
-    "doi": "10.1016/j.optmat.2004.11.021"
+    "doi": "",
+    "link":"ArticulosJCR/04_Paper-21_Enhance.pdf"
   },
   {
     "id": 21,
@@ -419,11 +439,12 @@
     "pages": "1260-1265",
     "issn_print": "",
     "issn_online": "",
-    "doi": "10.1016/j.optmat.2004.11.021"
+    "doi": "10.1016/j.optmat.2004.11.021",
+    "link":"ArticulosJCR/05_Paper-22_Adevice.pdf"
   },
   {
     "id": 22,
-    "title": "Parametric conversion in a non-lineal photonic crystal",
+    "title": "Conversión paramétrica en un crystal fotónico no-lineal",
     "authors": [
       "M. Torres-Cisneros",
       "J. W. Haus",
@@ -446,7 +467,8 @@
     "pages": "258-264",
     "issn_print": "",
     "issn_online": "",
-    "doi": ""
+    "doi": "",
+    "link":"ArticulosJCR/05_Paper-23_Conversion.pdf"
   },
   {
     "id": 23,
@@ -467,7 +489,8 @@
     "pages": "60-64",
     "issn_print": "",
     "issn_online": "",
-    "doi": "10.1016/j.optmat.2006.03.026"
+    "doi": "10.1016/j.optmat.2006.03.026",
+    "link":"ArticulosJCR/08_Paper-24_Characterization.pdf"
   },
   {
     "id": 24,
@@ -487,7 +510,8 @@
     "pages": "685-689",
     "issn_print": "",
     "issn_online": "",
-    "doi": "10.1016/j.mejo.2007.07.091"
+    "doi": "10.1016/j.mejo.2007.07.091",
+    "link":"ArticulosJCR/08_Paper-25_Photonic.pdf"
   },
   {
     "id": 25,
@@ -509,11 +533,12 @@
     "pages": "252-260",
     "issn_print": "",
     "issn_online": "",
-    "doi": "10.1016/j.optmat.2008.04.002"
+    "doi": "10.1016/j.optmat.2008.04.002",
+    "link":"ArticulosJCR/09_Paper-26_Yb+3.pdf"
   },
   {
     "id": 26,
-    "title": "Synthesis and Nonlinear Optical behavior of Ag Nanoparticles in PMMA",
+    "title": "Synthesis and Optical behavior of Ag Nanoparticles",
     "authors": [
       "M. Torres-Cisneros",
       "Naohisa Yanagihara",
@@ -532,11 +557,12 @@
     "pages": "621-623",
     "issn_print": "",
     "issn_online": "",
-    "doi": "10.1016/j.mejo.2008.06.044"
+    "doi": "10.1016/j.mejo.2008.06.044",
+    "link":"ArticulosJCR/.pdf"
   },
   {
     "id": 27,
-    "title": "Synthesis and Optical Characterization of Ago Nanoparticles",
+    "title": "Synthesis and Optical Characterization of Ag in Nanoparticles in PMMA",
     "authors": [
       "M. Torres-Cisneros",
       "C. Velásquez-Ordóñez",
@@ -555,7 +581,8 @@
     "pages": "618-620",
     "issn_print": "",
     "issn_online": "",
-    "doi": "10.1016/j.mejo.2008.06.043"
+    "doi": "10.1016/j.mejo.2008.06.043",
+    "link":"ArticulosJCR/09_Paper-28_Synthesis.pdf"
   },
   {
     "id": 28,
@@ -575,29 +602,11 @@
     "pages": "574-576",
     "issn_print": "",
     "issn_online": "",
-    "doi": "10.1016/j.mejo.2008.06.070"
+    "doi": "10.1016/j.mejo.2008.06.070",
+    "link":"ArticulosJCR/09_Paper-29_Intermixing.pdf"
   },
   {
     "id": 29,
-    "title": "Performance Optimization and Mechanical Modeling of Uniaxial piezoresistive microaccelerometers",
-    "authors": [
-      "Angel R. Cortés-Pérez",
-      "Agustín Leobardo Herrera-May",
-      "Luz A. Aguilera-Cortés",
-      "Max A. González-Palacios",
-      "Miguel Torres-Cisneros"
-    ],
-    "journal": "Microsystem Technologies",
-    "volume": "16",
-    "issue": "3",
-    "year": 2010,
-    "pages": "461-476",
-    "issn_print": "",
-    "issn_online": "",
-    "doi": "10.1007/s00542-009-0942-y"
-  },
-  {
-    "id": 30,
     "title": "Estudio Acústico Estructural de la Cabina de un Vehículo Automotriz",
     "authors": [
       "L. A. Aguilera Cortés",
@@ -613,28 +622,51 @@
     "pages": "73-86",
     "issn_print": "1405-7743",
     "issn_online": "",
-    "doi": ""
+    "doi": "",
+    "link":"ArticulosJCR/10_Paper-30_Estudio.pdf"
   },
   {
-    "id": 31,
-    "title": "Characterization of polarization-maintaining photonic crystal fiber as a sensor of magnetic field",
+    "id": 30,
+    "title": "Analysis of LRD series with time-varying Hurst Parameter",
     "authors": [
-      "A. González-Parada",
-      "J. Ruíz-Pinales",
-      "J.R. Guzmán-Sepúlveda",
-      "D. May-Arrioja",
-      "M. Torres-Cisneros",
-      "R. Guzmán-Cabrera"
+      "S. Ledesma-Orozco",
+      "G. Cerda-Villafaña",
+      "G. Aviña-Cervantes",
+      "D. Hernandez-Fusilier",
+      "Miguel Torres-Cisneros"
     ],
-    "journal": "International Journal of Thermophysics",
-    "volume": "32",
-    "issue": "8-9",
-    "year": 2011,
-    "pages": "1532-1539",
-    "issn_print": "0195-928X",
+    "journal": "Revista Computación y Sistemas",
+    "volume": "13",
+    "issue": "4",
+    "year": 2010,
+    "pages": "295-312",
+    "issn_print": "1405'5546",
     "issn_online": "",
-    "doi": "10.1007/s10765-011-1035-7"
+    "doi": "",
+    "link":"ArticulosJCR/10_Paper-31_Analysis.pdf"
   },
+
+  {
+    "id": 31,
+    "title": "Performance Optimization and Mechanical Modeling of Uniaxial piezoresistive microaccelerometers",
+    "authors": [
+      "Angel R. Cortés-Pérez",
+      "Agustín Leobardo Herrera-May",
+      "Luz A. Aguilera-Cortés",
+      "Max A. González-Palacios",
+      "Miguel Torres-Cisneros"
+    ],
+    "journal": "Microsystem Technologies",
+    "volume": "16",
+    "issue": "3",
+    "year": 2010,
+    "pages": "461-476",
+    "issn_print": "",
+    "issn_online": "",
+    "doi": "10.1007/s00542-009-0942-y",
+    "link":"ArticulosJCR/10_Paper-32_Performance.pdf"
+  },
+
   {
     "id": 32,
     "title": "Modeling of the intrinsic stress effect on the resonant frequency of NEMS resonators integrated by beams with variable cross-section",
@@ -654,7 +686,8 @@
     "pages": "650-654",
     "issn_print": "1750-0443",
     "issn_online": "",
-    "doi": "10.1049/mnl.2012.0141"
+    "doi": "10.1049/mnl.2012.0141",
+    "link":"ArticulosJCR/10_Paper-33_Modeling.pdf"
   },
   {
     "id": 33,
@@ -674,7 +707,8 @@
     "pages": "103-113",
     "issn_print": "1665-7381",
     "issn_online": "",
-    "doi": ""
+    "doi": "",
+    "link":"ArticulosJCR/12_Somim.pdf"
   },
   {
     "id": 34,
@@ -694,7 +728,8 @@
     "pages": "1-14",
     "issn_print": "1748-670X",
     "issn_online": "",
-    "doi": "10.1155/2013/190304"
+    "doi": "10.1155/2013/190304",
+    "link":"ArticulosJCR/13_Hindawi-comand mat.pdf"
   },
   {
     "id": 35,
@@ -713,11 +748,12 @@
     "year": 2013,
     "issn_print": "1024-123X",
     "issn_online": "1563-5147",
-    "doi": "10.1155/2013/419018"
+    "doi": "10.1155/2013/419018",
+    "link":"ArticulosJCR/13_Hindawi-matprob.pdf"
   },
   {
     "id": 36,
-    "title": "Topological Optimization Of An Slab Of Polystyrene Foam With Mix Of Densities",
+    "title": "Optimización topológica de una bovedilla de Espuma de Poliestireno con Mezcla de Densidades",
     "authors": [
       "Gustavo Capilla-González",
       "Héctor Plascencia-Mora",
@@ -732,29 +768,30 @@
     "pages": "444-452",
     "issn_print": "0012-7361",
     "issn_online": "",
-    "doi": "10.6036/5445"
+    "doi": "10.6036/5445",
+    "link":"ArticulosJCR/13_dyna.pdf"
   },
   {
     "id": 37,
-    "title": "Fast and Accuracy Cell Tracking by Novel Hibrid Method",
+    "title": "Pattern recongnition in photoacoustic dataset",
     "authors": [
+      "R. Guzmán-Cabrera",
+      "J.R. Guzmán-Sepulveda",
       "M. Torres-Cisneros",
-      "J.G. Aviña-Cervantes",
-      "V.I. Tinoco-Solis",
-      "E. Perez-Careta",
-      "F. Ambriz-Colin",
+      "D.A. May-Arrioja",
+      "J. Ruiz-Pinales",
       "O.G. Ibarra-Manzano",
-      "H. Plascencia-Mora",
-      "E. Aguilera-Gomez"
+      "G. Aviña-Cervantes"
     ],
     "journal": "International Journal of Thermophysics",
     "volume": "34",
     "issue": "8-9",
     "year": 2013,
-    "pages": "1435-1443",
+    "pages": "1638-1645",
     "issn_print": "0195-928X",
     "issn_online": "1572-9567",
-    "doi": "10.1007/s10765-013-1453-8"
+    "doi": "10.1007/s10765-013-1452-9",
+    "link":"ArticulosJCR/13_IJOT1.pdf"
   },
   {
     "id": 38,
@@ -776,28 +813,31 @@
     "pages": "1519-1531",
     "issn_print": "0195-928X",
     "issn_online": "1572-9567",
-    "doi": "10.1007/s10765-012-1328-4"
+    "doi": "10.1007/s10765-012-1328-4",
+    "link":"ArticulosJCR/13_IJOT3.pdf"
   },
   {
     "id": 39,
-    "title": "Pattern recongnition in photoacoustic dataset",
+    "title": "Fast and Accuracy Cell Tracking by Novel Hibrid Method",
     "authors": [
-      "R. Guzmán-Cabrera",
-      "J.R. Guzmán-Sepulveda",
       "M. Torres-Cisneros",
-      "D.A. May-Arrioja",
-      "J. Ruiz-Pinales",
+      "J.G. Aviña-Cervantes",
+      "V.I. Tinoco-Solis",
+      "E. Perez-Careta",
+      "F. Ambriz-Colin",
       "O.G. Ibarra-Manzano",
-      "G. Aviña-Cervantes"
+      "H. Plascencia-Mora",
+      "E. Aguilera-Gomez"
     ],
     "journal": "International Journal of Thermophysics",
     "volume": "34",
     "issue": "8-9",
     "year": 2013,
-    "pages": "1638-1645",
+    "pages": "1435-1443",
     "issn_print": "0195-928X",
     "issn_online": "1572-9567",
-    "doi": "10.1007/s10765-013-1452-9"
+    "doi": "10.1007/s10765-013-1453-8",
+    "link":"ArticulosJCR/13_IJOT3.pdf"
   },
   {
     "id": 40,
@@ -816,7 +856,8 @@
     "pages": "14200-14213",
     "issn_print": "1424-8220",
     "issn_online": "",
-    "doi": "10.3390/s131014200"
+    "doi": "10.3390/s131014200",
+    "link":"ArticulosJCR/13_Sensors.pdf"
   },
   {
     "id": 41,
@@ -835,7 +876,8 @@
     "pages": "2323-2326",
     "issn_print": "1041-1135",
     "issn_online": "",
-    "doi": "10.1109/LPT.2013.2286132"
+    "doi": "10.1109/LPT.2013.2286132",
+    "link":"ArticulosJCR/12_IEEE-PTL.pdf"
   },
   {
     "id": 42,
@@ -855,11 +897,12 @@
     "pages": "2451-2458",
     "issn_print": "1094-4087",
     "issn_online": "",
-    "doi": "10.1364/OE.22.002451"
+    "doi": "10.1364/OE.22.002451",
+    "link":"ArticulosJCR/14_OE1.pdf"
   },
   {
     "id": 43,
-    "title": "Supercontinuum optimization for dual-soliton based light sources using genetic algorithms in a grid platform",
+    "title": "Utra-flat supercontinuum spectrum by optimizing the zero dispersion wavelength profile in a tapered fiber using genetic algorithms",
     "authors": [
       "F.R. Arteaga-Sierra",
       "C. Milian",
@@ -874,7 +917,8 @@
     "pages": "23686-23693",
     "issn_print": "1094-4087",
     "issn_online": "",
-    "doi": "10.1364/OE.22.002451"
+    "doi": "10.1364/OE.22.002451",
+    "link":"ArticulosJCR/14_OE2.pdf"
   },
   {
     "id": 44,
@@ -896,7 +940,8 @@
     "pages": "",
     "issn_print": "",
     "issn_online": "",
-    "doi": "10.2971/jeos.2015.15039"
+    "doi": "10.2971/jeos.2015.15039",
+    "link":"ArticulosJCR/15_EurJO.pdf"
   },
   {
     "id": 45,
@@ -914,7 +959,8 @@
     "pages": "2356-2369",
     "issn_print": "0195-928X",
     "issn_online": "",
-    "doi": "10.1007/s10765-015-1926-z"
+    "doi": "10.1007/s10765-015-1926-z",
+    "link":"ArticulosJCR/15_Thermophys.pdf"
   },
   {
     "id": 46,
@@ -933,49 +979,11 @@
     "pages": "26929-26939",
     "issn_print": "1424-8220",
     "issn_online": "",
-    "doi": "10.3390/s151026929"
+    "doi": "10.3390/s151026929",
+    "link":"ArticulosJCR/15_sensors.pdf"
   },
   {
     "id": 47,
-    "title": "Digital Processing of Thermographic Images for Medical Applications",
-    "authors": [
-      "Rafael Guzman-Cabrera",
-      "Jose Rafael Guzman-Sepulveda",
-      "Adrian Gonzalez Parada",
-      "Juan Rosales Garcia",
-      "Miguel Torres-Cisneros",
-      "Dumitru Baleanu"
-    ],
-    "journal": "Revista De Chimie",
-    "volume": "1",
-    "year": 2016,
-    "pages": "53-56",
-    "issn_print": "",
-    "issn_online": "",
-    "doi": ""
-  },
-  {
-    "id": 48,
-    "title": "Segmentation of Coronary Angiograms Using Gabor Filters and Boltzmann Univariate Marginal Distribution Algorithm",
-    "authors": [
-      "Fernando Cervantes-Sanchez",
-      "Ivan Cruz-Aceves",
-      "Arturo Hernandez-Aguirre",
-      "Juan Gabriel Aviña-Cervantes",
-      "Sergio Solorio-Meza",
-      "Manuel Ornelas-Rodriguez",
-      "Miguel Torres-Cisneros"
-    ],
-    "journal": "Computational Intelligence and Neuroscience",
-    "year": 2016,
-    "article_id": "2420962",
-    "pages": "9",
-    "issn_print": "1687-5265",
-    "issn_online": "1687-5273",
-    "doi": "10.1155/2016/2420962"
-  },
-  {
-    "id": 49,
     "title": "Optical fiber temperature sensor based on a microcavity with polymer overlay",
     "authors": [
       "I. Hernández-Romano",
@@ -994,7 +1002,49 @@
     "pages": "5654-5661",
     "issn_print": "1094-4087",
     "issn_online": "",
-    "doi": "10.1364/OE.24.005654"
+    "doi": "10.1364/OE.24.005654",
+    "link":"ArticulosJCR/16OE.pdf"
+  },
+  {
+    "id": 48,
+    "title": "Digital Processing of Thermographic Images for Medical Applications",
+    "authors": [
+      "Rafael Guzman-Cabrera",
+      "Jose Rafael Guzman-Sepulveda",
+      "Adrian Gonzalez Parada",
+      "Juan Rosales Garcia",
+      "Miguel Torres-Cisneros",
+      "Dumitru Baleanu"
+    ],
+    "journal": "Revista De Chimie",
+    "volume": "1",
+    "year": 2016,
+    "pages": "53-56",
+    "issn_print": "",
+    "issn_online": "",
+    "doi": "",
+    "link":"ArticulosJCR/16 Chimie.pdf"
+  },
+  {
+    "id": 49,
+    "title": "Segmentation of Coronary Angiograms Using Gabor Filters and Boltzmann Univariate Marginal Distribution Algorithm",
+    "authors": [
+      "Fernando Cervantes-Sanchez",
+      "Ivan Cruz-Aceves",
+      "Arturo Hernandez-Aguirre",
+      "Juan Gabriel Aviña-Cervantes",
+      "Sergio Solorio-Meza",
+      "Manuel Ornelas-Rodriguez",
+      "Miguel Torres-Cisneros"
+    ],
+    "journal": "Computational Intelligence and Neuroscience",
+    "year": 2016,
+    "article_id": "2420962",
+    "pages": "9",
+    "issn_print": "1687-5265",
+    "issn_online": "1687-5273",
+    "doi": "10.1155/2016/2420962",
+    "link":"ArticulosJCR/Segmentation of Coronary.pdf"
   },
   {
     "id": 50,
@@ -1017,7 +1067,8 @@
     "pages": "2768-2771",
     "issn_print": "1041-1135",
     "issn_online": "1941-0174",
-    "doi": "10.1109/LPT.2016.2616466"
+    "doi": "10.1109/LPT.2016.2616466",
+    "link":"ArticulosJCR/Phot Tech Lett- JManuel2016.pdf"
   },
   {
     "id": 51,
@@ -1036,7 +1087,8 @@
     "pages": "A104-A114",
     "issn_print": "1559-128X",
     "issn_online": "2155-3165",
-    "doi": "10.1364/AO.56.00A104"
+    "doi": "10.1364/AO.56.00A104",
+    "link":"ArticulosJCR/AO-Ojeda-2017.pdf"
   },
   {
     "id": 52,
@@ -1057,7 +1109,8 @@
     "pages": "111-116",
     "issn_print": "0035-001X",
     "issn_online": "",
-    "doi": ""
+    "doi": "",
+    "link":"ArticulosJCR/Paco-RMF 63-2017.pdf"
   },
   {
     "id": 53,
@@ -1077,7 +1130,8 @@
     "pages": "57-59",
     "issn_print": "2080-2242",
     "issn_online": "",
-    "doi": "10.4302/plp.v9i2.729"
+    "doi": "10.4302/plp.v9i2.729",
+    "link":"ArticulosJCR/54.pdf"
   },
   {
     "id": 54,
@@ -1097,7 +1151,8 @@
     "pages": "17004-17020",
     "issn_print": "1094-4087",
     "issn_online": "",
-    "doi": "10.1364/OE.25.017004"
+    "doi": "10.1364/OE.25.017004",
+    "link":"ArticulosJCR/55.pdf"
   },
   {
     "id": 55,
@@ -1117,7 +1172,8 @@
     "pages": "7869-7876",
     "issn_print": "1559-128X",
     "issn_online": "2155-3165",
-    "doi": "10.1364/AO.56.007869"
+    "doi": "10.1364/AO.56.007869",
+    "link":"ArticulosJCR/56.pdf"
   },
   {
     "id": 56,
@@ -1136,10 +1192,52 @@
     "pages": "4030-4037",
     "issn_print": "1558-1748",
     "issn_online": "",
-    "doi": "10.1109/JSEN.2018.2818064"
+    "doi": "10.1109/JSEN.2018.2818064",
+    "link":"ArticulosJCR/57.pdf"
   },
   {
     "id": 57,
+    "title": "Suspended LRSPP for the development of highly integrated active plasmonic devices Sensing",
+    "authors": [
+      "M.A. Fuentes-Fuentes",
+      "D.A. May-Arrioja",
+      "J.R. Guzmán-Sepúlveda",
+      "F.A. Arteaga-Sierra",
+      "M. Torres-Cisneros",
+      "P. LikamWa",
+      "J.J. Sánchez-Mondragón"
+    ],
+    "journal": "Optics Express",
+    "volume": "27",
+    "issue": "6",
+    "pages": "8858-8870",
+    "year": 2019,
+    "issn_print": "1094-4087",
+    "issn_online": "",
+    "doi": "10.1364/OE.27.008858",
+    "link":"ArticulosJCR/58.pdf"
+  },
+  {
+    "id": 58,
+    "title": "Laser-Induced Deposition of Carbon Nanotubes in Fiber Optic Tips of MMI Devices",
+    "authors": [
+      "Natanael Cuando-Espitia",
+      "Juan Bernal-Martínez",
+      "Miguel Torres-Cisneros",
+      "Daniel May-Arrioja"
+    ],
+    "journal": "Sensors",
+    "volume": "19",
+    "issue": "20",
+    "pages": "4512",
+    "year": 2019,
+    "issn_print": "1424-8220",
+    "issn_online": "",
+    "doi": "10.3390/s19204512",
+    "link":"ArticulosJCR/59.pdf"
+  },
+  {
+    "id": 59,
     "title": "Novel Structures Configurations for Long Range Surface Plasmon-Polaritron",
     "authors": [
       "M. Torres-Cisneros",
@@ -1158,7 +1256,7 @@
     "doi": "10.13053/CyS-23-1-3172"
   },
   {
-    "id": 58,
+    "id": 60,
     "title": "Cardiac Abnormalities Detection from Compressed ECG",
     "authors": [
       "M. Torres-Cisneros",
@@ -1236,45 +1334,6 @@
     "issn_print": "2007-9737",
     "issn_online": "",
     "doi": "10.13053/cys-23-3-3136"
-  },
-  {
-    "id": 62,
-    "title": "Suspended LRSPP for the development of highly integrated active plasmonic devices Sensing",
-    "authors": [
-      "M.A. Fuentes-Fuentes",
-      "D.A. May-Arrioja",
-      "J.R. Guzmán-Sepúlveda",
-      "F.A. Arteaga-Sierra",
-      "M. Torres-Cisneros",
-      "P. LikamWa",
-      "J.J. Sánchez-Mondragón"
-    ],
-    "journal": "Optics Express",
-    "volume": "27",
-    "issue": "6",
-    "pages": "8858-8870",
-    "year": 2019,
-    "issn_print": "1094-4087",
-    "issn_online": "",
-    "doi": "10.1364/OE.27.008858"
-  },
-  {
-    "id": 63,
-    "title": "Laser-Induced Deposition of Carbon Nanotubes in Fiber Optic Tips of MMI Devices",
-    "authors": [
-      "Natanael Cuando-Espitia",
-      "Juan Bernal-Martínez",
-      "Miguel Torres-Cisneros",
-      "Daniel May-Arrioja"
-    ],
-    "journal": "Sensors",
-    "volume": "19",
-    "issue": "20",
-    "pages": "4512",
-    "year": 2019,
-    "issn_print": "1424-8220",
-    "issn_online": "",
-    "doi": "10.3390/s19204512"
   },
   {
     "id": 64,
