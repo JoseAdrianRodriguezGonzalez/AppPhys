@@ -1275,7 +1275,7 @@
     "doi": "10.13053/CyS-23-1-3171"
   },
   {
-    "id": 59,
+    "id": 61,
     "title": "Effect of the Trivalent Erbium Concentration on the Luminescent Properties of TiO2 Er3+ Composites",
     "authors": [
       "Octavio Olvera R",
@@ -1295,7 +1295,7 @@
     "doi": "10.13053/CyS-23-1-3145"
   },
   {
-    "id": 60,
+    "id": 62,
     "title": "Effect of the Erbium Concentration in the Luminescent Properties of ZrO2",
     "authors": [
       "Miguel Ojeda Martínez",
@@ -1315,7 +1315,7 @@
     "doi": "10.13053/CyS-23-1-3135"
   },
   {
-    "id": 61,
+    "id": 63,
     "title": "A Numerical Perspective on the Jaynes-Cummings Model Wigner Function",
     "authors": [
       "J. C. García-Melgarejo",
@@ -1337,26 +1337,6 @@
   },
   {
     "id": 64,
-    "title": "Ultra-high sensitivity temperature sensor using a fiber loop mirror based on a water-filled asymmetric two-hole fiber",
-    "authors": [
-      "Rodolfo Martínez-Manuel",
-      "Daniel A May-Arrioja",
-      "Jesús Acevedo-Mijangos",
-      "René F Domínguez-Cruz",
-      "Daniel López-Cortés",
-      "Miguel Torres-Cisneros"
-    ],
-    "journal": "IEEE Sensors Journal",
-    "volume": "20",
-    "issue": "11",
-    "pages": "5953-5961",
-    "year": 2020,
-    "issn_print": "1558-1748",
-    "issn_online": "",
-    "doi": "10.1109/JSEN.2020.2974889"
-  },
-  {
-    "id": 65,
     "title": "Sensitivity Enhancement of Curvature Fiber Sensor Based on Polymer-Coated Capillary Hollow-Core Fiber",
     "authors": [
       "Luis A Herrera-Piad",
@@ -1372,10 +1352,11 @@
     "year": 2020,
     "issn_print": "1424-8220",
     "issn_online": "",
-    "doi": "10.3390/s20133763"
+    "doi": "10.3390/s20133763",
+    "link":"ArticulosJCR/60.pdf"
   },
   {
-    "id": 66,
+    "id": 65,
     "title": "All-Fiber Measurement of Surface Tension Using a Two-Hole Fiber",
     "authors": [
       "Jose R Guzman-Sepulveda",
@@ -1393,7 +1374,29 @@
     "year": 2020,
     "issn_print": "1424-8220",
     "issn_online": "",
-    "doi": "10.3390/s20154219"
+    "doi": "10.3390/s20154219",
+    "link":"ArticulosJCR/61.pdf"
+  },
+  {
+    "id": 66,
+    "title": "Ultra-high sensitivity temperature sensor using a fiber loop mirror based on a water-filled asymmetric two-hole fiber",
+    "authors": [
+      "Rodolfo Martínez-Manuel",
+      "Daniel A May-Arrioja",
+      "Jesús Acevedo-Mijangos",
+      "René F Domínguez-Cruz",
+      "Daniel López-Cortés",
+      "Miguel Torres-Cisneros"
+    ],
+    "journal": "IEEE Sensors Journal",
+    "volume": "20",
+    "issue": "11",
+    "pages": "5953-5961",
+    "year": 2020,
+    "issn_print": "1558-1748",
+    "issn_online": "",
+    "doi": "10.1109/JSEN.2020.2974889",
+    "link":"ArticulosJCR/62.pdf"
   },
   {
     "id": 67,
@@ -1413,7 +1416,8 @@
     "year": 2020,
     "issn_print": "0733-8724",
     "issn_online": "1558-2213",
-    "doi": "10.1109/JLT.2020.2985041"
+    "doi": "10.1109/JLT.2020.2985041",
+    "lin":"ArticulosJCR/63.pdf"
   },
   {
     "id": 68,
@@ -1433,7 +1437,8 @@
     "year": 2021,
     "issn_print": "0733-8724",
     "issn_online": "1558-2213",
-    "doi": "10.1109/JLT.2020.3022885"
+    "doi": "10.1109/JLT.2020.3022885",
+    "link":"ArticulosJCR/64.pdf"
   },
   {
     "id": 69,
@@ -1452,29 +1457,11 @@
     "year": 2021,
     "issn_print": "1424-8220",
     "issn_online": "",
-    "doi": "10.3390/s21165471"
+    "doi": "10.3390/s21165471",
+    "link":"ArticulosJCR/65.pdf"
   },
   {
     "id": 70,
-    "title": "Narrow spectral linewidth and tunable erbium-doped fiber ring laser using a MZI based on CHCF",
-    "authors": [
-      "S. Marrujo-García",
-      "L.A. Herrera-Piad",
-      "I. Hernández-Romano",
-      "Daniel A May-Arrioja",
-      "Vladimir P Minkovich",
-      "Miguel Torres-Cisneros"
-    ],
-    "journal": "Optical Fiber Technology",
-    "volume": "67",
-    "pages": "102739",
-    "year": 2021,
-    "issn_print": "1068-5200",
-    "issn_online": "",
-    "doi": "10.1016/j.yofte.2021.102739"
-  },
-  {
-    "id": 71,
     "title": "Extended axial irradiances: Barker rings",
     "authors": [
       "C.M. Gómez-Sarabia",
@@ -1490,7 +1477,28 @@
     "year": 2021,
     "issn_print": "1094-4087",
     "issn_online": "",
-    "doi": "10.1364/OE.438772"
+    "doi": "10.1364/OE.438772",
+    "link":"ArticulosJCR/66.pdf"
+  },
+  {
+    "id": 71,
+    "title": "Narrow spectral linewidth and tunable erbium-doped fiber ring laser using a MZI based on CHCF",
+    "authors": [
+      "S. Marrujo-García",
+      "L.A. Herrera-Piad",
+      "I. Hernández-Romano",
+      "Daniel A May-Arrioja",
+      "Vladimir P Minkovich",
+      "Miguel Torres-Cisneros"
+    ],
+    "journal": "Optical Fiber Technology",
+    "volume": "67",
+    "pages": "102739",
+    "year": 2021,
+    "issn_print": "1068-5200",
+    "issn_online": "",
+    "doi": "10.1016/j.yofte.2021.102739",
+    "link":"ArticulosJCR/67.pdf"
   },
   {
     "id": 72,
@@ -1509,10 +1517,32 @@
     "year": 2022,
     "issn_print": "0012-7361",
     "issn_online": "",
-    "doi": "10.6036/10117"
+    "doi": "10.6036/10117",
+    "link":"ArticulosJCR/68.pdf"
   },
   {
     "id": 73,
+    "title": "Highly Stable Switchable Emissions of an Erbium-Doped Fiber Ring Laser Using Cascaded MZIs Based on CHCFs",
+    "authors": [
+      "L.A. Herrera-Piad",
+      "S. Marrujo-García",
+      "I. Hernández-Romano",
+      "Daniel A May-Arrioja",
+      "Vladimir P Minkovich",
+      "Miguel Torres-Cisneros"
+    ],
+    "journal": "Machines",
+    "volume": "10",
+    "issue": "10",
+    "pages": "962",
+    "year": 2022,
+    "issn_print": "2075-1702",
+    "issn_online": "",
+    "doi": "10.3390/machines10100962",
+    "link":"ArticulosJCR/70.pdf"
+  },
+  {
+    "id": 74,
     "title": "One-class Classification for Identifying COVID-19 in X-Ray Images",
     "authors": [
       "E. Perez-Careta",
@@ -1530,27 +1560,8 @@
     "year": 2022,
     "issn_print": "",
     "issn_online": "",
-    "doi": "10.1134/S0361768822040041"
-  },
-  {
-    "id": 74,
-    "title": "Highly Stable Switchable Emissions of an Erbium-Doped Fiber Ring Laser Using Cascaded MZIs Based on CHCFs",
-    "authors": [
-      "L.A. Herrera-Piad",
-      "S. Marrujo-García",
-      "I. Hernández-Romano",
-      "Daniel A May-Arrioja",
-      "Vladimir P Minkovich",
-      "Miguel Torres-Cisneros"
-    ],
-    "journal": "Machines",
-    "volume": "10",
-    "issue": "10",
-    "pages": "962",
-    "year": 2022,
-    "issn_print": "2075-1702",
-    "issn_online": "",
-    "doi": "10.3390/machines10100962"
+    "doi": "10.1134/S0361768822040041",
+    "link":"ArticulosJCR/69.pdf"
   },
   {
     "id": 75,
@@ -1569,11 +1580,12 @@
     "year": 2023,
     "issn_print": "1424-8220",
     "issn_online": "",
-    "doi": "10.3390/s23167241"
+    "doi": "10.3390/s23167241",
+    "link":"ArticulosJCR/70.pdf"
   },
   {
     "id": 76,
-    "title": "Automatic recognition of automobiles using machine learning",
+    "title": "Reconocimiento Automático de Automóviles Mediante Aprendizaje Automático",
     "authors": [
       "Deborah Martínez",
       "Miguel Torres-Cisneros",
@@ -1588,6 +1600,7 @@
     "year": 2023,
     "issn_print": "0012-7361",
     "issn_online": "",
-    "doi": "10.6036/10673"
+    "doi": "10.6036/10673",
+    "link":"ArticulosJCR/71.pdf"
   }
 ]

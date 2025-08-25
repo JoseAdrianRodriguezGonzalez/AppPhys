@@ -143,10 +143,16 @@
 </body>
 <script>
     document.addEventListener('DOMContentLoaded',()=>{
-        fetch('header.html')
+        fetch('./components/header.html')
             .then(res=>res.text())
-            .then(html=>document.getElementById('header-placeholder').innerHTML=html);
-        fetch('footer.html')
+            .then(html=>{
+                document.getElementById('header-placeholder').innerHTML=html
+                const script=document.createElement("script");
+                script.src='./components/header.js';
+                document.body.append(script);               
+            }
+        );
+        fetch('./components/footer.html')
             .then(res=>res.text())
             .then(html=>document.getElementById('footer-placeholder').innerHTML=html);
     })

@@ -73,35 +73,5 @@
         </nav>
     </header>
 </body>
-<script>
-    const toggle = document.getElementById('menu-toggle');
-    const menu = document.getElementById('menu');
-    toggle.addEventListener('click', () => {
-        menu.classList.toggle('hidden');
-    });
-    document.addEventListener("DOMContentLoaded",()=>{
-        const toggles=document.querySelectorAll(".toggle-submenu");
-        toggles.forEach(toggle=>{
-            toggle.addEventListener("click",(e)=>{
-                console.log(toggle);
-                e.stopPropagation();
-                const targetId=toggle.getAttribute("data-target");
-                const submenu=document.getElementById(targetId);
-                document.querySelectorAll(".submenu").forEach(menu=>{
-                    if(menu !== submenu) {
-                        menu.classList.add("hidden");
-                    }
-                });
-                
-                // Alternar el submenú actual
-                submenu.classList.toggle("hidden");
-            });
-        });
-        document.addEventListener("click",()=>{
-            document.querySelectorAll(".submenu").forEach(menu=>{
-                menu.classList.add("hidden");
-            })
-        })
-    })
-</script>
+
 </html>
