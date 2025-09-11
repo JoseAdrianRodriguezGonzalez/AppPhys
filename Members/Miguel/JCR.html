@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+        theme: {
+            extend: {
+            colors: {
+                'miguel-white':'#fff',
+                'miguel-blue': '#004a88',
+                'miguel-gold': '#ffd700'
+            },
+            fontFamily: {
+                sans: ['Segoe UI', 'Roboto', 'sans-serif'],
+            }
+            }
+        }
+        }
+    </script>
+    <title>Miguel</title>
+</head>
+<body class="bg-miguel-white text-white font-sans">
+    <div id="header-placeholder"></div>
+    <main class="my-10">
+        <section id="collections" data-json="./jcrpapers.json">
+            
+        </section>
+    </main>
+    <div id="footer-placeholder"></div>
+</body>
+<script>
+document.addEventListener('DOMContentLoaded', async () => {
+    // Cargar header
+    const headerHtml = await fetch('./components/header.html').then(r => r.text());
+    document.getElementById('header-placeholder').innerHTML = headerHtml;
+    const headerScript = document.createElement('script');
+    headerScript.src = './components/header.js';
+    document.body.appendChild(headerScript);
+
+    // Cargar footer
+    const footerHtml = await fetch('./components/footer.html').then(r => r.text());
+    document.getElementById('footer-placeholder').innerHTML = footerHtml;
+
+     const refHtml = await fetch('./components/References.html').then(r => r.text());
+     const collections = document.getElementById('collections');
+     collections.innerHTML = refHtml;
+     const refScript = document.createElement('script');
+     refScript.src = './components/JCR.js';
+     refScript.onload = () => {
+           window.dispatchEvent(new CustomEvent('JCRLoaded'));
+        };
+     document.body.appendChild(refScript);
+});
+</script>
+
+</html> 
