@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', async () => {
      const collections = document.getElementById('collections');
      collections.innerHTML = refHtml;
      const refScript = document.createElement('script');
-     refScript.src = './components/JCR.js';
+     refScript.src = './components/generico.js';
      refScript.onload = () => {
            window.dispatchEvent(new CustomEvent('JCRLoaded'));
         };

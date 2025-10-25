@@ -1,0 +1,154 @@
+[
+  {
+    "id": 11,
+    "title": "Entangled revivals in a Cross Cavity Jaynes-Cummings Model",
+    "authors": [
+      "JC Garcia-Melgarejo",
+      "OS Magana-Loaiza",
+      "DA May-Arrioja",
+      "M. Torres-Cisneros",
+      "JJ Sanchez-Mondragon"
+    ],
+    "conference": "Optical Society of America, Annual Meeting; Frontiers in Optics, FTu3A.8",
+    "year": 2013,
+    "link": "Congresos/FiO-2013-FTu3A.8.pdf"
+  },
+  {
+    "id": 10,
+    "title": "Highly Sensitive Fiber Optic Curvature Sensor",
+    "authors": [
+      "JR Guzman-Sepulveda",
+      "M. Torres-Cisneros",
+      "R Guzman-Cabrera",
+      "DA May-Arrioja"
+    ],
+    "conference": "Optical Society of America, Annual Meeting; Frontiers in Optics, FTh2B.3",
+    "year": 2013,
+    "link": "Congresos/FiO-2013-FTh2B.3.pdf"
+  },
+  {
+    "id": 9,
+    "title": "Basic emergence of dispersive and nonlinear effects in fibers for supercontinuum generation by ultrashort pulses",
+    "authors": [
+      "JN Lozano-Crisostomo",
+      "JJ Sanchez-Mondragon",
+      "DA May-Arrioja",
+      "M. Torres-Cisneros",
+      "Govind P Agrawal"
+    ],
+    "conference": "Optical Society of America, Annual Meeting; Frontiers in Optics, FTu3A.25",
+    "year": 2013,
+    "link": "Congresos/FiO-2013-FTu3A.25.pdf"
+  },
+  {
+    "id": 8,
+    "title": "Nanowires geometry dependence of coupling properties of a hybrid directional coupler",
+    "authors": [
+      "N Lozano-Crisostomo",
+      "DA May-Arrioja",
+      "M. Torres-Cisneros",
+      "JA Andrade-Lucio",
+      "Govind P Agrawal",
+      "JJ Sanchez-Mondragon"
+    ],
+    "conference": "Optical Society of America, Latin America Optics and Photonics Conference, LM2A.28",
+    "year": 2012,
+    "link": "Congresos/LAOP-2012-LM2A.28.pdf"
+  },
+  {
+    "id": 7,
+    "title": "Salinity Sensor Based on a Two-Core Fiber",
+    "authors": [
+      "J Guzman-Sepulveda",
+      "M. Torres-Cisneros",
+      "DA May-Arrioja"
+    ],
+    "conference": "Optical Society of America, Latin America Optics and Photonics Conference, LS3B.3",
+    "year": 2012,
+    "link": "Congresos/LAOP-2012-LS3B.3.pdf"
+  },
+  {
+    "id": 6,
+    "title": "Biological System Modeling based on Fourier Series",
+    "authors": [
+      "R. Guzman-Cabrera",
+      "JR Guzman-Sepulveda",
+      "M. Torres-Cisneros",
+      "O.G. Ibarra Manzano"
+    ],
+    "conference": "Optical Society of America, Latin America Optics and Photonics Technical Digest, LT2A.16",
+    "year": 2012,
+    "link": "Congresos/LAOP-2012-LT2A.16.pdf"
+  },
+  {
+    "id": 5,
+    "title": "Slow Surface Plasmon-Polaritons in a Metal-Dielectric Structure Incorporating a Lorentzian Gain Medium",
+    "authors": [
+      "A Vázquez-Guardado",
+      "G Lopez-Galmiche",
+      "I De Leon Arizpe",
+      "R Paez-López",
+      "M. Torres-Cisneros",
+      "JJ Sanchez-Mondragon"
+    ],
+    "conference": "Optical Society of America, Latin America Optics and Photonics Conference, LM2A.27",
+    "year": 2012,
+    "link": "Congresos/LAOP-2012-LM2A.27.pdf"
+  },
+  {
+    "id": 4,
+    "title": "Multimode Interference Fiber Optic Vibration Sensor",
+    "authors": [
+      "JR Guzman-Sepulveda",
+      "JJ Sanchez-Mondragon",
+      "M. Torres-Cisneros",
+      "JA Arredondo-Lucio",
+      "DA May-Arrioja"
+    ],
+    "conference": "Optical Society of America, Annual Meeting; Frontiers in Optics, FM4H.2",
+    "year": 2012,
+    "link": "ArticulosNoJCR/.pdf"
+  },
+  {
+    "id": 3,
+    "title": "Fiber optic vibration sensor based on multimode interference effects",
+    "authors": [
+      "JR Guzman-Sepulveda",
+      "I Hernandez-Romano",
+      "M. Torres-Cisneros",
+      "DA May-Arrioja"
+    ],
+    "conference": "Optical Society of America, CLEO: Applications and Technology, JW2A.117",
+    "year": 2012,
+    "link": "Congresos/12_cleo.pdf"
+  },
+  {
+    "id": 2,
+    "title": "Analytical description of band gaps in a ternary metallo-dielectric stack",
+    "authors": [
+      "A Alejo-Molina",
+      "JJ Sánchez-Mondragón",
+      "A Zamudio-Lara",
+      "DL Romero-Antequera",
+      "M. Torres-Cisneros",
+      "DE Ceballos-Herrera"
+    ],
+    "conference": "Triennial Meeting of International Commission for Optics (ICO 22), 801167-801167-6",
+    "year": 2011,
+    "link": "Congresos/11_ICO.pdf"
+  },
+  {
+    "id": 1,
+    "title": "Measurement of curvature and temperature using multimode interference devices",
+    "authors": [
+      "JR Guzman-Sepulveda",
+      "JG Aguilar-Soto",
+      "M. Torres-Cisneros",
+      "OG Ibarra-Manzano",
+      "DA May-Arrioja"
+    ],
+    "conference": "Triennial Meeting of International Commission for Optics (ICO 22), 80115P-80115P-6",
+    "year": 2011,
+    "link": "Congresos/11_ICO2.pdf"
+  }
+]

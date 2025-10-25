@@ -1,0 +1,48 @@
+[
+  {
+    "id": 2,
+    "title": "Optical Processors as Conceptual Tools for Designing Nonconventional Devices",
+    "authors": [
+      "Jorge Ojeda-Castañeda",
+      "Sergio Ledesma",
+      "Emmanuel Yápez-Vidal",
+      "Cristina M Gomez-Sarabia",
+      "Miguel Torres-Cisneros"
+    ],
+    "book": "Advanced Lasers",
+    "editors": [
+      "Oleksiy Shulika",
+      "Igor Sukhoivanov"
+    ],
+    "pages": "117-146",
+    "year": 2015,
+    "publisher": "Springer Series in Optical Sciences",
+    "ISSN": ["0342-4111", "1556-1534 (electronic)"],
+    "ISBN": ["978-94-017-9480-0", "978-94-017-9481-7 (eBook)"],
+    "DOI": "10.1007/978-94-017-9481-7_8",
+    "link": "CapitulosLibro/ChapterBook_Ojeda2015.pdf"
+  },
+  {
+    "id": 1,
+    "title": "Unsupervised medical image segmentation using stochastic optimization methods",
+    "authors": [
+      "Ivan Cruz-Aceves",
+      "Juan Gabriel Avina-Cervantes",
+      "Juan Manuel Lopez-Hernandez",
+      "Ma. de Guadalupe Garcia-Hernandez",
+      "Torres-Cisneros M.",
+      "Manuel Ornelas-Rodriguez"
+    ],
+    "book": "Nanomedicine",
+    "editors": [
+      "Alexander Seifalian",
+      "Achala de Mel",
+      "Deepak M. Kalaskar"
+    ],
+    "pages": "334-356",
+    "year": 2014,
+    "publisher": "One Central Press (OCP), University College London (UK)",
+    "ISBN": ["978-1-910086-01-8 (eBook)"],
+    "link": "CapitulosLibro/Book_Nanomedicine.pdf"
+  }
+]
